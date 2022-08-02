@@ -79,6 +79,8 @@
       }
     $(function () {
       $.getJSON('https://usr6902.github.io/gunlukyemeklistesi/db.json?callback', function(data){db=data;updateUi(db)});
+      $("#btnPrev").click(function(){date.setDate(date.getDate() - 1); updateUi(db)})
+      $("#btnNext").click(function(){date.setDate(date.getDate() + 1); updateUi(db)})
     })
   </script>
 
@@ -93,11 +95,23 @@
       <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
         <h1 class="display-4 fw-normal">Günlük Yemek Listesi</h1>
             
-  <ul class="pager">
-    <li class="previous"><a href="#">Önceki Gün</a></li>
-    <p class="fs-5 text-muted" id="divDate"></p>
-    <li class="next"><a href="#">Sonraki Gün</a></li>
+<nav aria-label="Page navigation example">
+  <ul class="pagination justify-content-center">
+    <li class="page-item">
+      <a class="page-link" href="#" id="btnPrev">Önceki Gün</a>
+    </li>
+
+    <li class="page-item disabled">
+      <a class="page-link" href="#" id="divDate"></a>
+    </li>
+    
+    
+    
+    <li class="page-item">
+      <a class="page-link" href="#" id="btnNext">Sonraki Gün</a>
+    </li>
   </ul>
+</nav>
 
         
       </div>
