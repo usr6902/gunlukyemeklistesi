@@ -78,7 +78,7 @@
       }
     $(function () {
       var cardColors = { "Paşa Fırını": "warning", "Sodexo": "primary", "Gourme Mutfak": "secondary", "Değirmen": "danger" }
-      $.getJSON('https://usr6902.github.io/gunlukyemeklistesi/db.json?callback', function(data){db=data;});
+      $.getJSON('https://usr6902.github.io/gunlukyemeklistesi/db.json?callback', function(data){db=data;updateUi(db)});
     })
   </script>
 
