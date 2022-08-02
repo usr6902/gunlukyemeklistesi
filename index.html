@@ -41,6 +41,22 @@
   <script>
     var date = new Date();
     var db=null;
+    function changeTimeZone(date, timeZone) {
+      if (typeof date === 'string') {
+        return new Date(
+          new Date(date).toLocaleString('en-US', {
+          timeZone,
+        }),
+      );
+    }
+
+  return new Date(
+    date.toLocaleString('en-US', {
+      timeZone,
+    }),
+  );
+}
+
     var cardColors = { "Paşa Fırını": "warning", "Sodexo": "primary", "Gourme Mutfak": "secondary", "Değirmen": "danger" }
     function updateUi(db) {
         var mC = "";
