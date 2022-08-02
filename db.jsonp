@@ -1,3 +1,235 @@
 db = {
-  "Gourme_Mutfak": {}
+  "Paşafırını_Ağustos_Menüsü_2022": {
+    "2022-08-01T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Yayla Çorbası",
+      "Çökertme Kebabı",
+      "Güveç Köfte",
+      "Salsa Soslu Tavuk",
+      "Soslu Patlıcan",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-08T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Ispanak Çorbası",
+      "Kağıt Kebabı",
+      "Beğendili Köfte",
+      "Şinitzel",
+      "Kabak Kalye",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-15T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Brokoli Çorba",
+      "Buğu kababı",
+      "Alınazık",
+      "Tatlı/Ekşi Tavuk",
+      "Sebze Sote",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-22T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Sebze Çorbası",
+      "Tas Kebabı",
+      "Karnıyarık",
+      "Külbastı Tavuk",
+      "Kabak Graten",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-29T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Yayla Çorbası",
+      "Püreli Kebap",
+      "İzmir Köfte",
+      "Külbastı Tavuk",
+      "Kanabahar",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-02T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Domates Çorba",
+      "Hünkar Beğendi",
+      "Humus Köfte",
+      "Çıtır Tavuk",
+      "Taze Fasulye",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-09T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Mısır Çorbası",
+      "Çoban Kavurma",
+      "Sebzeli Köfte",
+      "Tavuk Graten",
+      "Brokoli",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-16T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Tutmaç Çorba",
+      "ElbasN Tava",
+      "Misket Köfte",
+      "Kremalı tavuk",
+      "Patlıcan Plaki",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-23T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası",
+      "Gendime",
+      "Hünkar Beğendi",
+      "Rosto Köfte",
+      "Sosya Soslu Tavuk",
+      "Kuru Fasulye",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-30T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası",
+      "Şehriye Çorbası",
+      "Ciğer",
+      "Kilis Tava",
+      "Beğendili Tavuk",
+      "Brokoli Graten",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-03T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Köylü Çorba",
+      "Ciğer",
+      "Karnıyarık",
+      "Tavuk Emense",
+      "Nohut",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-10T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Tarhana Çorbası",
+      "Abant Kebabı",
+      "Lazanya",
+      "Mantarlı Tavuk",
+      "Barbunya",
+      ",",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-17T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Mantar Çorba",
+      "Et Sote",
+      "Kilis tava",
+      "Tavuk Sarma",
+      "Türlü",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-24T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası",
+      "Köylü Çorba",
+      "Et Ememnse",
+      "Kadın budu Köfte",
+      "Chili Sosolu Tavuk",
+      "Kremalı Patates",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-31T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası",
+      "Tarhana Çorbası",
+      "Et Elbasan",
+      "Kadın Budu Köfte",
+      "Tatlı/Ekşi Tavuk",
+      "Biber Dolma",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-04T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Şehriye Çorba",
+      "Macar Gulaş",
+      "Rosto Köfte",
+      "BBQ Tavuk",
+      "Brokoli Graten",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-11T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Sebze Çorbası",
+      "Etli Güveç",
+      "Patates Oturtma",
+      "Tavuk Sote",
+      "Ispanak",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-18T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Tarhana Çorbası",
+      "Avcı Kebap",
+      "Patlıcan Musakka",
+      "Mantarlı Tavuk",
+      "Kereviz",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-25T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası",
+      "Tarhana Çorbası",
+      "Yahni",
+      "Fırın Köfte",
+      "BBQ Tavuk",
+      "Taze Fasulye",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-05T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Buğday Çorbası",
+      "Sebzeli Kebap",
+      "Ekşili Köfte",
+      "Tavuk Sote",
+      "Bezelye",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-12T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Domates Çorbası",
+      "Mantarlı Et sote",
+      "Kaşarlı Köfte,",
+      "Tavuk Güveç",
+      "Şakşuka",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-19T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası    ",
+      "Yoğurt Çorba",
+      "Çökertme Kebabı",
+      "Sebzeli Köfte",
+      "Bahçe Piliç",
+      "Yeşil Mercimek",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ],
+    "2022-08-26T00:00:00": [
+      "Mercimek veya Ezogelin Çorbası",
+      "Tavuk Suyu Çorba",
+      "Patlıcan Kebap",
+      "Meksika Köfte",
+      "Mantarlı Tavuk",
+      "Bezelye",
+      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
+      "Salata, Cacık veya Komposto"
+    ]
+  }
 }
