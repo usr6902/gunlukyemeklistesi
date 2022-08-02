@@ -44,7 +44,7 @@
     $(function () {
 
 
-      $.getJSON('https://cdn.jsdelivr.net/gh/usr6902/gunlukyemeklistesi/db.json?callback', function (db) {
+      $.getJSON('db.json?callback', function (db) {
         var mC = "";
         for (i in db) {
           var date = new Date();
