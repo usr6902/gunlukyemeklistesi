@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.84.0">
+    <title>Günlük Yemek Listesi</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/pricing/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="stil.css" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="js/bootstrap.bundle.min.js"> </script>
+<script src="db.jsonp"></script>
+<script>
+  $(function(){
+
+debugger;
+   
+      var mC = "";
+      for(i in db)
+      {
+        debugger;
+        var date = new Date();
+        var key = date.toISOString().split("T")[0]+"T00:00:00"
+        var content = db[i][key];
+        if(content)
+         {
+
+var str = 
+'<div class="col">'+
+        '<div class="card mb-4 rounded-3 shadow-sm">'+
+          '<div class="card-header py-3">'+
+            '<h4 class="my-0 fw-normal">'+i+'</h4>'+
+          '</div>'+
+          '<div class="card-body">'+
+            '<ul class="list-unstyled mt-3 mb-4">';
+for(y in content)
+{
+str+=('<li>'+content[y]+'</li>')
+}
+
+str = str +
+'</ul>'+
+          '</div>'+
+        '</div>'+
+      '</div>'
+        mC+=str;
+
+         }
+
+
+        // i : pasafirini
+        // j[i]
+      }
+
+
+
+    $("#divContent").html(mC)
+
+  })
+</script>
+
+  </head>
+  <body>
+    
+
+<div class="container py-3">
+  <header>
+
+    <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal">Günlük Yemek Listesi</h1>
+      <p class="fs-5 text-muted">Günlük Yemek Listesi</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center" id="divContent">
+      
+      
+      
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">__REST__</h4>
+          </div>
+          <div class="card-body">
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>10 users included</li>
+              <li>2 GB of storage</li>
+              <li>Email support</li>
+              <li>Help center access</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+
+
+      
+    </div>
+
+  </main>
+
+ 
+</div>
+
+
+    
+  </body>
+</html>
