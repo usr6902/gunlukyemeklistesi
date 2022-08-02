@@ -40,13 +40,9 @@
 <script src="db.jsonp"></script>
 <script>
   $(function(){
-
-debugger;
-   
       var mC = "";
       for(i in db)
       {
-        debugger;
         var date = new Date();
         var key = date.toISOString().split("T")[0]+"T00:00:00"
         var content = db[i][key];
