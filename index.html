@@ -43,8 +43,8 @@
   <script>
     $(function () {
 
-
-      $.getJSON('db.json?callback', function (db) {
+      var cardColors = {"Paşa Fırını":"warning", "Sodexo":"primary","Gourme Mutfak":"secondary","Değirmen":"danger"}
+      $.getJSON('https://usr6902.github.io/gunlukyemeklistesi/db.json?callback', function (db) {
         var mC = "";
         for (i in db) {
           var date = new Date();
@@ -54,8 +54,8 @@
 
             var str =
               '<div class="col">' +
-              '<div class="card mb-4 rounded-3 shadow-sm">' +
-              '<div class="card-header py-3">' +
+              '<div class="card mb-4 rounded-3 shadow-sm border-'+cardColors[i]+'">' +
+              '<div class="card-header py-3 bg-'+cardColors[i]+' border-'+cardColors[i]+' '+cardColors[i] == "warning" ? "" : "text-white"+'">' +
               '<h4 class="my-0 fw-normal">' + i + '</h4>' +
               '</div>' +
               '<div class="card-body">' +
@@ -74,6 +74,7 @@
           }
         }
         $("#divContent").html(mC)
+        $("divDate").text(new Date().toLocaleString())
       });
     })
   </script>
@@ -88,7 +89,7 @@
 
       <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
         <h1 class="display-4 fw-normal">Günlük Yemek Listesi</h1>
-        <p class="fs-5 text-muted">Günlük Yemek Listesi</p>
+        <p class="fs-5 text-muted" id="divDate"></p>
       </div>
     </header>
 
