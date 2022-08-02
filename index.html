@@ -45,7 +45,7 @@
     function updateUi(db) {
         var mC = "";
         for (i in db) {
-          var key = date.toISOString().split("T")[0] + "T00:00:00"
+          var key = changeTimeZone(date, 'Turkey').toISOString().split("T")[0] + "T00:00:00"
           var content = db[i][key];
           if (content) {
 
