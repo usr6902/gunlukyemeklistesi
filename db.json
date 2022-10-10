@@ -1,893 +1,166 @@
 {
-  "Paşa Fırını": {
-    "2022-08-01T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Yayla Çorbası",
-      "Çökertme Kebabı",
-      "Güveç Köfte",
-      "Salsa Soslu Tavuk",
-      "Soslu Patlıcan",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
+  "BCC_EKİM_MENÜ_1_": {
+    "2022-10-10T00:00:00": [
+      "TARHANA ÇORBA",
+      "ISLAMA KÖFTE",
+      "KIYMALI SEMİZOTU",
+      "CEVİZLİ ERİŞTE",
+      "SEHRİYELİ PİRİNÇ PİLAVI",
+      "İNCİRLİ MUHALLEBİ-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
     ],
-    "2022-08-08T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Ispanak Çorbası",
-      "Kağıt Kebabı",
-      "Beğendili Köfte",
-      "Şinitzel",
-      "Kabak Kalye",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-15T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Brokoli Çorba",
-      "Buğu kababı",
-      "Alınazık",
-      "Tatlı/Ekşi Tavuk",
-      "Sebze Sote",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-22T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Sebze Çorbası",
-      "Tas Kebabı",
-      "Karnıyarık",
-      "Külbastı Tavuk",
-      "Kabak Graten",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-29T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Yayla Çorbası",
-      "Püreli Kebap",
-      "İzmir Köfte",
-      "Külbastı Tavuk",
-      "Kanabahar",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-02T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Domates Çorba",
-      "Hünkar Beğendi",
-      "Humus Köfte",
-      "Çıtır Tavuk",
-      "Taze Fasulye",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-09T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Mısır Çorbası",
-      "Çoban Kavurma",
-      "Sebzeli Köfte",
-      "Tavuk Graten",
-      "Brokoli",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-16T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Tutmaç Çorba",
-      "ElbasN Tava",
-      "Misket Köfte",
-      "Kremalı tavuk",
-      "Patlıcan Plaki",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-23T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası",
-      "Gendime",
-      "Hünkar Beğendi",
-      "Rosto Köfte",
-      "Sosya Soslu Tavuk",
-      "Kuru Fasulye",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-30T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası",
-      "Şehriye Çorbası",
-      "Ciğer",
-      "Kilis Tava",
-      "Beğendili Tavuk",
-      "Brokoli Graten",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-03T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Köylü Çorba",
-      "Ciğer",
-      "Karnıyarık",
-      "Tavuk Emense",
-      "Nohut",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-10T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Tarhana Çorbası",
-      "Abant Kebabı",
-      "Lazanya",
-      "Mantarlı Tavuk",
-      "Barbunya",
-      ",",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-17T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Mantar Çorba",
-      "Et Sote",
-      "Kilis tava",
-      "Tavuk Sarma",
-      "Türlü",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-24T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası",
-      "Köylü Çorba",
-      "Et Ememnse",
-      "Kadın budu Köfte",
-      "Chili Sosolu Tavuk",
-      "Kremalı Patates",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-31T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası",
-      "Tarhana Çorbası",
-      "Et Elbasan",
-      "Kadın Budu Köfte",
-      "Tatlı/Ekşi Tavuk",
-      "Biber Dolma",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-04T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Şehriye Çorba",
-      "Macar Gulaş",
-      "Rosto Köfte",
-      "BBQ Tavuk",
-      "Brokoli Graten",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-11T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Sebze Çorbası",
-      "Etli Güveç",
-      "Patates Oturtma",
-      "Tavuk Sote",
-      "Ispanak",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-18T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Tarhana Çorbası",
-      "Avcı Kebap",
-      "Patlıcan Musakka",
-      "Mantarlı Tavuk",
-      "Kereviz",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-25T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası",
-      "Tarhana Çorbası",
-      "Yahni",
-      "Fırın Köfte",
-      "BBQ Tavuk",
-      "Taze Fasulye",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-05T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Buğday Çorbası",
-      "Sebzeli Kebap",
-      "Ekşili Köfte",
-      "Tavuk Sote",
-      "Bezelye",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-12T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Domates Çorbası",
-      "Mantarlı Et sote",
-      "Kaşarlı Köfte,",
-      "Tavuk Güveç",
-      "Şakşuka",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-19T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası    ",
-      "Yoğurt Çorba",
-      "Çökertme Kebabı",
-      "Sebzeli Köfte",
-      "Bahçe Piliç",
-      "Yeşil Mercimek",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ],
-    "2022-08-26T00:00:00": [
-      "Mercimek veya Ezogelin Çorbası",
-      "Tavuk Suyu Çorba",
-      "Patlıcan Kebap",
-      "Meksika Köfte",
-      "Mantarlı Tavuk",
-      "Bezelye",
-      "Bulgur Pilavı, Pirinç Pilavı veya Makarna",
-      "Salata, Cacık veya Komposto"
-    ]
-  },
-  "Gourme Mutfak": {
-    "2022-08-01T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "ETLİ KURU FASÜLYE",
-      "PİLİÇ EMENSE",
-      "ISPANAK YEMEĞİ",
-      "CEVİZLİ KUSKUS ",
-      "PİRİNÇ PİLAVI",
-      "YOĞURT"
-    ],
-    "2022-08-08T00:00:00": [
-      "BROKOLİ ÇORBASI",
-      "NOHUTLU MİSKET KÖFTE",
-      "TAVUK FAJİTA",
-      "ISPANAK YEMEĞİ",
-      "PİRİNÇ PİLAVI",
-      "NAPOLİTAN SOSLU MAKARNA",
-      "KAVUN"
-    ],
-    "2022-08-15T00:00:00": [
-      "MANTAR ÇORBASI",
-      "ÇOBAN KAVURMA",
-      "TAVUK KOKOREÇ",
-      "M.HAVUÇLU PİLAKİ",
-      "ARPA ŞEHRİYE PİLAVI",
-      "PİRİNÇ PİLAVI",
-      "SEMİZOTU SALATASI"
-    ],
-    "2022-08-22T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "ŞEHZADE KEBABI",
-      "TAVUK ŞİNİTZEL",
-      "TAZE FASÜLYE",
-      "ARPA ŞEHRİYE PİLAVI",
-      "PİRİNÇ PİLAVI",
-      "ÇOBAN SALATA"
-    ],
-    "2022-08-29T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "HASANPAŞA KÖFTE",
-      "SOYA SOSLU TAVUK",
-      "KURU FASÜLYE ( ETSİZ )",
-      "NOHUTLU PİLAV",
-      "BULGUR PİLAVI",
-      "CACIK"
-    ],
-    "2022-08-02T00:00:00": [
-      "TAVUK SUYU ÇORBA",
-      "HÜNKAR BEĞENDİ",
-      "TAVUK KAVURMA",
-      "VİŞNELİ YAPRAK SARMA",
-      "SEBZELİ PİRİNÇ PİLAVI",
+    "2022-10-17T00:00:00": [
+      "MERCİMEK ÇORBA",
+      "ÇÖP ŞİŞ KÖFTE",
+      "VEJ. YEŞİL MERCİMEK",
       "SOSLU MAKARNA",
-      " TURŞU"
-    ],
-    "2022-08-09T00:00:00": [
-      "REYHANLI DOMATAES ÇORBASI",
-      "ÇÖKERTME KEBABI",
-      "ŞİLİ SOSLU TAVUK",
-      "YEŞİL MERCİMEK",
-      "HAVUÇLU PİRİNÇ PİLAVI",
-      "CEVİZLİ ERİŞTE ",
-      "PATATES SALATASI"
-    ],
-    "2022-08-16T00:00:00": [
-      "ŞEHRİYE ÇORBASI",
-      "İZMİR KÖFTE",
-      " SOSLU FIRIN TAVUK",
-      "TAZE FASÜLYE",
-      "PİRİNÇ PİLAVI",
-      "SEBZELİ MAKARNA",
-      "YOĞURT"
-    ],
-    "2022-08-23T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "İSLİM KÖFTE",
-      "KÖRİ SOSLU TAVUK",
-      "KARIŞIK KIZARTMA",
-      "PİRİNÇ PİLAVI",
       "ERİŞTE",
-      "YOĞURT"
+      "BÖĞÜRTLENLİ MUHALLEBİ-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
     ],
-    "2022-08-30T00:00:00": [
-      "RESMİ TATİL"
-    ],
-    "2022-08-03T00:00:00": [
-      "DOMATES ÇORBASI",
-      "PATATESLİ KAVURMA",
-      "TAVUK ÇÖKERTME",
-      "NOHUT YEMEĞİ",
-      "ÜZÜMLÜ PİLAV",
-      "ŞEHRİYE PİLAVI",
-      "CACIK"
-    ],
-    "2022-08-10T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "ET FAJİTA",
-      "ŞEFİN TAVASI",
-      "BÜRÜKSEL LAHANASI",
-      "TEREYAĞLI PİRİNÇ PİLAVI",
-      "SOSLU MAKARNA",
-      "NOHUT PİYAZ"
-    ],
-    "2022-08-17T00:00:00": [
-      "DÜĞÜN ÇORBASI",
-      "TAS KEBABI",
-      "BARBEKÜ SOSLU TAVUK",
-      "BÖRÜLCE YEMEĞİ",
-      "TEREYAĞLI PİRİNÇ PİLAVI",
-      "KUSKUS",
-      "TURŞU"
-    ],
-    "2022-08-24T00:00:00": [
-      "SEBZE ÇORBASI",
-      "HÜNKAR BEĞENDİ",
-      "TAVUK DÖNER",
-      "ZEYTİNYAĞLI ENGİNAR",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI",
-      "KARPUZ"
-    ],
-    "2022-08-31T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "KIYMALI LAZANYA",
-      "ÇİN USULÜ TAVUK",
-      "BAMYA YEMEĞİ",
-      "ARPA ŞEHRİYEŞİ, PİRİNÇ PİLAVI",
-      "SPAGHETTİ",
-      "KAVUN"
-    ],
-    "2022-08-04T00:00:00": [
-      "MERCİMEK ÇORBASI ",
-      "EKŞİLİ KÖFTE",
-      "TAVUK SARMA",
-      "YAZ TÜRLÜSÜ",
-      "PİRİNÇ PİLAVI",
-      "SALÇALI MAKARNA",
-      "FIRIN PATATES"
-    ],
-    "2022-08-11T00:00:00": [
-      "SOĞUK AYRAN ÇORBASI",
-      "YAPRAK CİĞER",
-      "TAVUK BUT HAŞLAMA",
-      "BAMYA YEMEĞİ",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "KARPUZ"
-    ],
-    "2022-08-18T00:00:00": [
-      "TARHANA ÇORBASI",
-      "IZGARA KÖFTE",
-      "HAVUÇLU BEZELYELİ TAVUK YEMEĞİ ",
-      "BAKLA YEMEĞİ",
-      "ARPA ŞEHRİYELİ PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI",
-      "FASÜLYE PİYAZ"
-    ],
-    "2022-08-25T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "ARNAVUT CİĞERİ",
-      "TAVUK GÜVEÇ",
-      "PORTAKALLI KEREVİZ",
-      "SEBZELİ PİRİNÇ PİLAVI",
-      "SOSLU MAKARNA",
-      "PATATES PÜRESİ"
-    ],
-    "2022-08-05T00:00:00": [
-      "KREMALI SEBZE ÇORBASI",
-      "BEŞAMEL SOSLU KIYMALI PATATES OTURTMA",
-      "PİLİÇ TANTUNİ",
-      "TAZE FASÜLYE",
-      "MEYHANE PİLAVI",
-      "BULGUR PİLAVI ",
-      "YOĞURT"
-    ],
-    "2022-08-12T00:00:00": [
-      "YAYLA ÇORBASI",
-      "ET SOTE",
-      "TAVUK SOTE",
-      "SEBZE GRATEN",
-      "ŞEHRİYELİ PİRİNÇ PİLAVI",
-      "SALÇALI MAKARNA",
-      "PATATES PÜRESİ"
-    ],
-    "2022-08-19T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "ÇELTİK KEBABI",
-      "SOYA SOSLU TAVUK",
-      "KABAK KALYE",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI",
-      "HAŞLANMIŞ SEBZE"
-    ],
-    "2022-08-26T00:00:00": [
-      "YAYLA ÇORBASI",
-      "KAĞIT KEBABI",
-      "SUSAMLI TAVUK",
-      "SEBZE SOTE",
-      "PİRİNÇ PİLAVI",
-      "SOSLU MAKARNA",
-      "KAVUN"
-    ]
-  },
-  "Değirmen": {
-    "2022-08-01T00:00:00": [
-      "EZO GELİN",
-      "YAYLA ",
-      "ÇÖKERTME ",
-      "FIRIN TAVUK",
-      "ROSTO KÖFTE",
-      "SOYA SOSLU TAVUK ",
-      "SARMA ",
-      "BARBUNYA",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-08T00:00:00": [
-      "MERCİMEK",
-      "ŞEHRİYE",
-      "ALİ NAZİK",
-      "PİLİÇ ROSTO",
-      "İZMİR KÖFTE",
-      "FIRIN TAVUK",
-      "SARMA ",
-      "KURU FASÜLYE",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-15T00:00:00": [
-      "EZO GELİN",
-      "TAVUK SUYU",
-      "SOĞAN YAHNİ",
-      "KÖRİ SOSLU TAVUK",
-      "IZGARA KÖFTE",
-      "PÜRELİ TAVUK",
-      "BİBER DOLMA",
-      "BARBUNYA",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-22T00:00:00": [
-      "MERCİMEK",
-      "DÜĞÜN",
-      "BOLU KEBAP",
-      "DALYAN KÖFTE",
-      "TAVUK ŞİNİTSEL",
-      "FIRIN TAVUK",
-      "KURU FASÜLYE",
-      "SARMA ",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-29T00:00:00": [
-      "EZO GELİN",
-      "ŞEHRİYE",
-      "ALİ NAZİK",
-      "KADIN BUDU KÖFTE",
-      "KÖRİ SOSLU TAVUK",
-      "HASAN PAŞA KÖFTE",
-      "SEBZELİ KÖFTE",
-      "ISPANAK",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-02T00:00:00": [
-      "MERCİMEK",
-      "DOMATEZ",
-      "ET DÜRÜM",
-      "PİLİÇ SARMA ",
-      "HASAN PAŞA ",
-      "MANTARLI TAVUK SOTE",
-      "TERBİYELİ KÖFTE",
-      "KARIŞIK KIZARTMA",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-09T00:00:00": [
-      "EZO GELİN",
-      "TAVUK SUYU",
-      "KÖFTE DÜRÜM",
-      "TAVUK ŞİNİTSEL",
-      "TAVUK SOTE",
-      "BEĞENDİLİ KÖFTE",
-      "PATATEZ OTURTMA",
-      "TAZE FASÜLYE",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-16T00:00:00": [
-      "MERCİMEK",
-      "ŞEHRİYE",
-      "TAVUK DÜRÜM",
-      "PİLİÇ SARMA ",
-      "MANTARLI TAVUK SOTE",
-      "İSLİM KÖFTE",
-      "SEBZELİ PİLİÇ KÖFTE",
-      "BEZELYE",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-23T00:00:00": [
-      "EZO GELİN",
-      "YAYLA",
-      "TAVUK DÜRÜM",
-      "PİLİÇ KAVURMA",
-      "SAHAN KÖFTE",
-      "BEĞENDİLİ TAVUK",
-      "PATLICAN MUSAKKA",
-      "BROKOLİ GRATEN",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-30T00:00:00": [
-      "                     ZAFER BAYRAMI"
-    ],
-    "2022-08-03T00:00:00": [
-      "EZOGELİN",
-      "MANTAR",
-      "TAVUK DÜRÜM",
-      "PÜRALİ TAVUK",
-      "SEBZELİ KÖFTE",
-      "ABANT KEBAP",
-      "PATLICAN MUSAKKA",
-      "BEZELYE",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-10T00:00:00": [
-      "MERCİMEK",
-      "DOMATEZ",
-      "ET DÜRÜM",
-      "SAHAN KÖFTE",
-      "PİLİÇ KAVURMA",
-      "TAVUK GÜVEÇ",
-      "PATLICAN MUSAKKA",
-      "NOHUT",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-17T00:00:00": [
-      "EZO GELİN",
-      "YAYLA",
-      "ET DÜRÜM",
-      "TAVUK FİNGERS",
-      "SOYA SOSLU TAVUK",
-      "İZMİR KÖFTE",
-      "KARNIYARIK",
-      "BROKOLİ GRATEN",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-24T00:00:00": [
-      "MERCİMEK",
-      "DOMATEZ",
-      "ET DÜRÜM",
-      "MANTARLI TAVUK",
-      "KURU KÖFTE",
-      "KÖRİ SOSLU TAVUK",
-      "TERBİYELİ KÖFTE",
-      "NOHUT",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-31T00:00:00": [
-      "MERCİMEK",
-      "DOMATEZ",
-      "ET DÜRÜM",
-      "SAHANDA KÖFTE",
-      "TAVUK ŞİNİTSEL",
-      "TAVUK EMESEN",
-      "SARMA",
-      "NOHUT",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-04T00:00:00": [
-      "MERCİMEK",
-      "TARHANA",
-      "KÖFTE DÜRÜM",
-      "PÜRELİ KÖFTE",
-      "TAVUK EMESEN",
-      "KADINBUDU KÖFTE",
-      "ETLİ PATATEZ",
-      "BROKOLİ GRATEN ",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-11T00:00:00": [
-      "EZO GELİN",
-      "MANTAR",
-      "TAVUK DÜRÜM",
-      "KADINBUDU KÖFTE",
-      "MANTARLI TAVUK",
-      "HAMBURGER KÖFTE",
-      "KARNIYARIK",
-      "KABAK GRATEN",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-18T00:00:00": [
-      "MERCİMEK",
-      "DOMATEZ",
-      "KÖFTE DÜRÜM",
-      "BEĞENDİLİ KÖFTE",
-      "ELBASAN TAVA",
-      "BEŞAMEL SOSLU TAVUK",
-      "TERBİYELİ KÖFTE",
-      "TAZE FASÜLYE",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-25T00:00:00": [
-      "EZO GELİN",
-      "MANTAR",
-      "KÖFTE DÜRÜM",
-      "KADINBUDU KÖFTE",
-      "PİLİÇ IZGARA",
-      "TAVUK SOTE",
-      "KARNIYARIK",
-      "MANTI",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-05T00:00:00": [
-      "EZO GELİN",
-      "BROKOLİ",
-      "ARNAVUT CİĞERİ",
-      "BEŞAMEL SOSLU TAVUK",
-      "KURU KÖFTE",
-      "KEKİKLİ KEBAP",
-      "KARNIYARIK",
-      "MANTI",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-12T00:00:00": [
-      "MERCİMEK",
-      "TARHANA",
-      "ARNAVUT CİĞERİ",
-      "PİLİÇ IZGARA",
-      "PÜRELİ KÖFTE",
-      "TAVUK EMESEN",
-      "TAVUK HAŞLAMA",
-      "ISPANAK",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-19T00:00:00": [
-      "EZO GELİN",
-      "MANTAR",
-      "ARNAVUT CİĞERİ",
-      "PİLİÇ KAVURMA",
-      "HASAN PAŞA KÖFTE",
-      "TAVUK EMESEN",
-      "KARIŞIK DOLMA",
-      "ISPANAK",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2022-08-26T00:00:00": [
-      "MERCİMEK",
-      "TARHANA",
-      "ARNAVUT CİĞERİ",
-      "PÜRELİ TAVUK",
-      "ORMAN KEBAP",
-      "YOĞURTLU KÖFTE",
-      "ETLİ PATATEZ",
-      "KARNABAHAR GRATEN",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ]
-  },
-  "Sodexo": {
-    "2022-08-02T00:00:00": [
-      "YAYLA ÇORBA",
-      "PÜRELİ PİLİÇ NUGGET",
-      "KIY.BEZELYE",
-      "SOSLU MAKARNA",
-      "AKDENİZ GÜLÜ",
-      "AYRAN-YOĞURT",
-      "GÖBEK-K.LAHANA-HAVUÇ-ZY BRÜKSEL-BİBER BORANİ"
-    ],
-    "2022-08-09T00:00:00": [
-      "TAVUKSUYU ÇORBA",
-      "GEMİCİ USULÜ KURU FASULYE",
-      "KABAK SOTE",
-      "SADE PİLAV",
-      "SÜTLAÇ",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-ÇİĞ KÖFTE- TURŞU"
-    ],
-    "2022-08-16T00:00:00": [
-      "YAYLA ÇORBASI",
-      "YEŞİL MERCİMEK",
-      "KARIŞIK MUSAKKA",
-      "GÜL BÖREĞİ",
-      "MEYVE",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-ÇİĞ KÖFTE-YOĞURTLU PAZI"
-    ],
-    "2022-08-23T00:00:00": [
-      "MERCİMEK ÇORBA",
-      "DOM.BİBER BAMYA",
-      "ETLİ KURU FASULYE",
-      "PATLICANLI PİLAV",
-      "KEMALPAŞA",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-ÇİĞ KÖFTE -TURŞU"
-    ],
-    "2022-08-30T00:00:00": [
-      "MERCİMEK ÇORBA",
-      "FIRINDA KABAK DİZME",
-      "KIY.KARNABAHAR",
-      "ERİŞTE KAVURMA",
-      "MEYVE",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-ÇİĞ KÖFTE-AYRAN AŞI"
-    ],
-    "2022-08-03T00:00:00": [
+    "2022-10-24T00:00:00": [
       "KÖYLÜ ÇORBA",
-      "GEMİCİ USULÜ KURU FASULYE",
-      "KIY.ISPANAK",
-      "MELEK PİLAVI-GÜL BÖREK",
-      "MEYVE",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-BİBER TURŞU-ALMAN CACIK"
+      "ETLİ KURU FASULYE",
+      "PÜRELİ KADINBUDU KÖFTE",
+      "ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "PEYNİRLİ KALEM BÖREK",
+      "2 RENKLİ MUHALLEBİ-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
     ],
-    "2022-08-10T00:00:00": [
-      "TARHANA ÇORBA",
-      "KARIŞIK DOLMA",
-      "MANTI",
-      "ERİŞTE KAVURMA-SEBZE SOTE",
-      "TAHİNLİ PEYNİR TATLISI",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-KISIR-KABAK TARATOR"
-    ],
-    "2022-08-17T00:00:00": [
-      "DOMATES ÇORBA",
-      "ETLİ BEZELYE",
-      "SEBZELİ PİLİÇ KAVURMA",
-      "ŞEH.PİLAV",
-      "TULUMBA",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-KISIR-MOR LAHANA YOĞURTLAMASI"
-    ],
-    "2022-08-24T00:00:00": [
+    "2022-10-31T00:00:00": [
       "EZOGELİN ÇORBA",
-      "BİBER DOLMA",
-      "MANTI",
-      "PEYNİRLİ BÖREK/SEBZE SOTE",
-      "SUPANGLE",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-KISIR-KABAK TARATOR"
-    ],
-    "2022-08-31T00:00:00": [
-      "DOMATES ÇORBA",
-      "KADINBUDU KÖFTE",
-      "TAZE FASULYE",
-      "PATLICANLI PİLAV",
-      "HİN.KEŞKÜL",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-KISIR-YOĞURTLU ERİŞTE"
-    ],
-    "2022-08-04T00:00:00": [
-      "MAHLUTA ÇORBA",
-      "MENGEN MUSAKKA",
-      "KURU PATLICAN DOLMA",
-      "SU BÖREĞİ",
-      "KEKLİ SUPANGLE",
-      "AYRAN-YOĞURT",
-      "GÖBEK-K.LAHANA-HAVUÇ-KISIR-YOĞURTLU ERİŞTE"
-    ],
-    "2022-08-11T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "NOHUT",
-      "PATATES MUSAKKA",
-      "ŞEH.PİLAV",
-      "MEYVE",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ- KARIŞIK TURŞU- CACIK"
-    ],
-    "2022-08-18T00:00:00": [
-      "MANTAR ÇORBASI",
-      "DOM.BİB.NOHUT",
-      "TAVUKLU KABAK SANDAL SEFASI",
-      "SADE PİLAV",
-      "PUDING",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-BİBER TURŞU-CACIK"
-    ],
-    "2022-08-25T00:00:00": [
-      "TARHANA ÇORBA",
-      "TAV.MEVSİM TURLÜ",
-      "NOHUT",
-      "BULGUR PİLAVI",
-      "MEYVE",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHAN-ZY.ISPANAK-CACIK"
-    ],
-    "2022-08-05T00:00:00": [
-      "DOMATES ÇORBA",
-      "PATATES OTURTMA",
-      "KABAK ÇİNTME",
+      "İZMİR KÖFTE",
+      "ETLİ KEREVİZ",
+      "ŞEHRİYELİ PİRİNÇ PİLAVI",
       "ARPA ŞEHRİYE PİLAVI",
-      "MEYVE",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-MERCİMEK KÖFTE-HAVUÇ TARATOR"
+      "PROFİTEROL-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
     ],
-    "2022-08-12T00:00:00": [
-      "MERCİMEK ÇORBA",
-      "YEŞİL MERCİMEK",
-      "ISPANAK",
-      "ŞEH. BULGUR PİLAVI",
-      "KEŞKÜL",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-MERCİMEK KÖFTE-HAVUÇ TARATOR"
+    "2022-10-11T00:00:00": [
+      "BULGUR ÇORBA",
+      "ORMAN KEBABI",
+      "VEJ. YEŞİL MERCİMEK",
+      "SOSLU MAKARNA",
+      "PİRİNÇ PİLAVI",
+      "KAZANDİBİ MEYVE - AYRAN",
+      "SALATA BÜFESİ "
     ],
-    "2022-08-19T00:00:00": [
-      "TARHANA ÇORBA",
-      "KARNABAHAR",
-      "ETLİ YAZ TÜRLÜSÜ",
-      "BULGUR PİLAVI",
-      "MEYVE",
-      "Yoğurt / Ayran",
-      "GÖBEK-K.LAHANA-HAVUÇ-MERCİMEK KÖFTE-HAVUÇ TARATOR"
-    ],
-    "2022-08-26T00:00:00": [
-      "TUTMAÇ ÇORBA",
+    "2022-10-18T00:00:00": [
+      "SOĞAN ÇORBA",
+      "TAVUK PİRZOLA",
       "KARNIYARIK",
-      "TAZE FASULYE",
-      "ŞEHRİYELİ PİLAV",
-      "İRMİK HELVASI",
-      "AYRAN-YOĞURT",
-      "GÖBEK-K.LAHANA-HAVUÇ-MERCİMEK KÖFTE-HAVUÇ TARATOR"
+      "BULGUR PİLAVI",
+      "ARPA ŞEHRİYE PİLAVI",
+      "TAVUKGÖĞSÜ TATLISI-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-25T00:00:00": [
+      "TARHANA ÇORBA",
+      "TAVUK PİRZOLA",
+      "VEJ. ISPANAK",
+      "BULGUR PİLAVI",
+      "ERİŞTE",
+      "DAMLA SAKIZLI MUHALLEBİ-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-12T00:00:00": [
+      "KREMALI MANTAR ÇORBA",
+      "TAVUK SOTE",
+      "VEJ. ISPANAK",
+      "SEBZELİ KALEM BÖREK",
+      "BULGUR PİLAVI",
+      "CEVİZLİ BAKLAVA-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-19T00:00:00": [
+      "KREMALI MANTAR ÇORBA",
+      "YUFKA KEBABI",
+      "VEJ. TAZE FASULYE",
+      "PATATESLİ GÜL BÖREĞİ",
+      "SOSLU MAKARNA",
+      "TULUMBA-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-26T00:00:00": [
+      "SEBZE ÇORBA",
+      "PÜRELİ PROSTO KÖFTE",
+      "VEJ.YEŞİL MERCİMEK ",
+      "PIRASALI TEPSİ BÖREĞİ",
+      "PEYNİRLİ MAKARNA",
+      "ŞEKERPARE-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-06T00:00:00": [
+      "TAVUKSUYU ÇORBA",
+      "SEBZELİ ET KAVURMA",
+      "GEMİCİ USULÜ KURU FASULYE",
+      "ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "SOSLU MAKARNA",
+      "TARÇINLI SÜTLAÇ-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-13T00:00:00": [
+      "EZOGELİN ÇORBA",
+      "İSLİM KÖFTE",
+      "ETLİ TAZE FASULYE",
+      "PEYNİRLİ MAKARNA",
+      "PİRİNÇ PİLAVI",
+      "KEKLİ SUPANGLE-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-20T00:00:00": [
+      "SEBZE ÇORBA",
+      "RENKLİ BİBERLİ TAVUK SOTE",
+      "ETLİ BİBER DOLMA",
+      "FIRIN MAKARNA",
+      "ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "LAZ HELVASI-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-27T00:00:00": [
+      "EZOGELİN ÇORBA",
+      "KREMALI MANTARLI TAVUK SOTE",
+      "KIYMALI KAPUSKA",
+      "ŞEH. PİRİNÇ PİLAVI",
+      "SOSLU MAKARNA",
+      "ÇİKOLATALI ŞARLOT-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-07T00:00:00": [
+      "DOMATESLİ ŞEHRİYE ÇORBA",
+      "İZMİR KÖFTE ",
+      "KIYMALI KABAK KALYE",
+      "BULGUR PİLAVI",
+      "PEYNİRLİ MAKARNA",
+      "TİRLEÇE-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-14T00:00:00": [
+      "DÜĞÜN ÇORBA",
+      "TAVUK SOTE",
+      "PATATES MUSAKKA",
+      "BULGUR PİLAVI",
+      "SOSLU MAKARNA",
+      "KREM KARAMEL-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-21T00:00:00": [
+      "TARHANA ÇORBA",
+      "URFA KEBABI(KÖFTELİ)",
+      "ETLİ NOHUT",
+      "ŞEH. PİRİNÇ PİLAVI",
+      "PEYNİRLİ MAKARNA",
+      "KAHVELİ MUHALLEBİ-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2022-10-28T00:00:00": [
+      "SOĞAN ÇORBA",
+      "ÇOBAN KAVURMA",
+      "ETLİ TÜRLÜ",
+      "BULGUR PİLAVI",
+      "ERİŞTE",
+      "VANİLYALI PUDİNG-MEYVE - AYRAN",
+      "SALATA BÜFESİ "
     ]
   }
 }
