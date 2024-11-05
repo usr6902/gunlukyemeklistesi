@@ -68,9 +68,14 @@
         db = data;
         updateUi(db);
       });
-
+      
+      var startOfMonth = new Date(date.getFullYear(), date.getMonth(), 1);
+      var endOfMonth = new Date(date.getFullYear(), date.getMonth() + 1, 0);
+      
       $("#datepicker").datepicker({
         dateFormat: "dd.mm.yy",
+        minDate: startOfMonth,
+        maxDate: endOfMonth,
         beforeShowDay: function(date) {
           var day = date.getDay();
           return [(day !== 0 && day !== 6), ""];
