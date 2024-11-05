@@ -1,19 +1,13 @@
 <!doctype html>
 <html lang="tr">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Günlük yemek listesi">
   <meta name="author" content="Mehmet AYDIN">
   <title>Günlük Yemek Listesi</title>
-  <!--https://github.com/usr6902/gunlukyemeklistesi-->
-  <link rel="canonical" href="https://usr6902.github.io/gunlukyemeklistesi/">
-
-
-
-  <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
   <style>
     .bd-placeholder-img {
@@ -23,100 +17,82 @@
       -moz-user-select: none;
       user-select: none;
     }
-
     @media (min-width: 768px) {
       .bd-placeholder-img-lg {
         font-size: 3.5rem;
       }
     }
   </style>
-
-
-  <!-- Custom styles for this template -->
+  
   <link href="stil.css" rel="stylesheet">
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"
     integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script src="js/bootstrap.bundle.min.js"> </script>
   <script>
     var date = new Date();
-    var db=null;
-    
-    var cardColors = { "Paşa Fırını": "warning", "Sodexo": "primary", "Gourme Mutfak": "secondary", "Değirmen": "danger" }
+    var db = null;
+    var cardColors = { "Paşa Fırını": "warning", "Sodexo": "primary", "Gourme Mutfak": "secondary", "Değirmen": "danger" };
+
     function updateUi(db) {
-        var mC = "";
-        for (i in db) {
-          var tzoffset = date.getTimezoneOffset() * 60000; //offset in milliseconds
-          var localISOTime = (new Date(date.getTime() - tzoffset)).toISOString().slice(0, -1);
-          var key = localISOTime.split("T")[0] + "T00:00:00"
-          var content = db[i][key];
-          if (content) {
-
-            var str =
-              '<div class="col">' +
-              '<div class="card mb-4 rounded-3 shadow-sm border-' + (cardColors[i] || "primary") + '">' +
-              '<div class="card-header py-3 bg-' + (cardColors[i] || "primary") + ' border-' + (cardColors[i] || "primary");
-            if (cardColors[i] != "warning")
-              str += ' text-white'
-
-            str += '">' +
-              '<h4 class="my-0 fw-normal">' + i + '</h4>' +
-              '</div>' +
-              '<div class="card-body">' +
-              '<ul class="list-unstyled mt-3 mb-4">';
-            for (y in content) {
-              str += ('<li>' + content[y] + '</li>')
-            }
-
-            str = str +
-              '</ul>' +
-              '</div>' +
-              '</div>' +
-              '</div>'
-            mC += str;
-
-          }
+      var mC = "";
+      for (i in db) {
+        var tzoffset = date.getTimezoneOffset() * 60000;
+        var localISOTime = (new Date(date.getTime() - tzoffset)).toISOString().slice(0, -1);
+        var key = localISOTime.split("T")[0] + "T00:00:00";
+        var content = db[i][key];
+        if (content) {
+          var str = `
+            <div class="col">
+              <div class="card mb-4 rounded-3 shadow-sm border-${cardColors[i] || "primary"}">
+                <div class="card-header py-3 bg-${cardColors[i] || "primary"} border-${cardColors[i] || "primary"} ${cardColors[i] != "warning" ? 'text-white' : ''}">
+                  <h4 class="my-0 fw-normal">${i}</h4>
+                </div>
+                <div class="card-body">
+                  <ul class="list-unstyled mt-3 mb-4">
+                    ${content.map(item => `<li>${item}</li>`).join('')}
+                  </ul>
+                </div>
+              </div>
+            </div>`;
+          mC += str;
         }
-        $("#divContent").html(mC)
-        $("#divDate").text(date.toLocaleDateString()+" "+date.toLocaleDateString("tr-TR", { weekday: 'long' }))
       }
-    $(function () {
-      $.getJSON('https://usr6902.github.io/gunlukyemeklistesi/db.json?callback', function(data){db=data;updateUi(db)});
-      $("#btnPrev").click(function(){date.setDate(date.getDate() - 1); updateUi(db)})
-      $("#btnNext").click(function(){date.setDate(date.getDate() + 1); updateUi(db)})
-    })
-  </script>
+      $("#divContent").html(mC);
+      $("#divDate").text(date.toLocaleDateString() + " " + date.toLocaleDateString("tr-TR", { weekday: 'long' }));
+    }
 
+    $(function () {
+      $.getJSON('https://usr6902.github.io/gunlukyemeklistesi/db.json?callback', function (data) {
+        db = data;
+        updateUi(db);
+      });
+
+      $("#datepicker").datepicker({
+        dateFormat: "dd.mm.yy",
+        beforeShowDay: function(date) {
+          var day = date.getDay();
+          return [(day !== 0 && day !== 6), ""];
+        },
+        onSelect: function (selectedDate) {
+          var parts = selectedDate.split(".");
+          date = new Date(parts[2], parts[1] - 1, parts[0]);
+          updateUi(db);
+        }
+      });
+    });
+  </script>
 </head>
 
 <body>
-
-
   <div class="container py-3">
     <header>
-
       <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
         <h1 class="display-4 fw-normal">Günlük Yemek Listesi</h1>
-            
-<nav aria-label="Page navigation example">
-  <ul class="pagination justify-content-center">
-    <li class="page-item">
-      <a class="page-link" href="#" id="btnPrev">Önceki Gün</a>
-    </li>
-
-    <li class="page-item disabled">
-      <a class="page-link" href="#" id="divDate"></a>
-    </li>
-    
-    
-    
-    <li class="page-item">
-      <a class="page-link" href="#" id="btnNext">Sonraki Gün</a>
-    </li>
-  </ul>
-</nav>
-
-        
+        <div class="input-group justify-content-center">
+          <input type="text" id="datepicker" class="form-control text-center" placeholder="Tarih Seçin" readonly>
+        </div>
       </div>
     </header>
 
@@ -124,13 +100,7 @@
       <div class="row row-cols-1 row-cols-md-3 mb-3 text-center" id="divContent">
         İçerik yükleniyor...
       </div>
-
     </main>
-
   </div>
-
-
-
 </body>
-
 </html>
