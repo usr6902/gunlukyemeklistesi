@@ -1,92 +1,202 @@
 {
   "Bcc Catering": {
-    "2024-12-24T00:00:00": [
-      "KÖYLÜ ÇORBA",
-      "HASANPAŞA KÖFTE"
-    ],
     "2024-12-02T00:00:00": [
       "MAHLUTA ÇORBA",
-      "PİLİÇ HAŞLAMA"
+      "PİLİÇ HAŞLAMA",
+      "ETLİ NOHUT",
+      "PİRİNÇ PİLAVI",
+      "SOSLU PENNE MAKARNA",
+      "ŞEKERPARE/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-09T00:00:00": [
       "MERCİMEK ÇORBA",
-      "MANTARLI TAVUK SOTE"
+      "MANTARLI TAVUK SOTE",
+      "ISPANAK YEMEĞİ",
+      "PİRİNÇ PİLAVI",
+      "PATATAESLİ GÜL BÖREĞİ",
+      "TEL KADAYIF/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-16T00:00:00": [
       "ŞEHRİYE ÇORBASI",
-      "FIRIN BAGET"
+      "FIRIN BAGET",
+      "NOHUT YEMEĞİ",
+      "PİRİNÇ PİLAVI",
+      "MAKARNA",
+      "SARI BURMA/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-23T00:00:00": [
       "MERCİMEK ÇORBA",
-      "BEŞAMEL SOSLU TAVUK"
+      "BEŞAMEL SOSLU TAVUK",
+      "PATLICAN MUSAKKA",
+      "PİRİNÇ PİLAVI",
+      "ERİŞTE",
+      "KALBURABASTI/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-30T00:00:00": [
       "EZOGELİN ÇORBA",
-      "PİLİÇ ROTİ"
+      "PİLİÇ ROTİ",
+      "KARNABAHAR YEMEĞİ",
+      "PİRİNÇ PİLAVI",
+      "SOSLU BURGU MAKARNA",
+      "CEVİZLİ BAKLAVA/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-03T00:00:00": [
       "YAYLA ÇORBASI",
-      "EKŞİLİ KÖFTE"
+      "EKŞİLİ KÖFTE",
+      "VEJ. KARNABAHAR",
+      "MAKARNA",
+      "PEYNİRLİ GÜL BÖREĞİ",
+      "KAKAOLU PUDİNG/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-10T00:00:00": [
       "EZOGELİN ÇORBA",
-      "İSLİM KÖFTE"
+      "İSLİM KÖFTE",
+      "VJT.KARNABAHAR",
+      "ŞEHRİYELİ PİLAV",
+      "BULGUR PLAVI",
+      "SAKIZLI MUHALLEBİ TATLI/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-17T00:00:00": [
       "BROKOLİ ÇORBA",
-      "KARNIYARIK YEMEĞİ"
+      "KARNIYARIK YEMEĞİ",
+      "MANTI",
+      "SADE PİRİNÇ PİLAVI",
+      "SEBZE GRATEN",
+      "KEŞKÜL/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
+    ],
+    "2024-12-24T00:00:00": [
+      "KÖYLÜ ÇORBA",
+      "HASANPAŞA KÖFTE",
+      "VEJ. TAZE FASULYE",
+      "BULGUR PLAVI",
+      "ERİŞTE MAKARNA",
+      "FIRIN SÜTLAÇ/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-31T00:00:00": [
       "YAYLA ÇORBASI",
-      "SEBZELİ KÖFTE"
+      "SEBZELİ KÖFTE",
+      "VEJ. KEREVİZ",
+      "BULGUR PLAVI",
+      "SOSLU MAKARNA",
+      "KABAK TATLISI/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-04T00:00:00": [
       "TAVUK ÇORBASI",
-      "TAS KEBABI"
+      "TAS KEBABI",
+      "GEMİCİ USL. KURU FASULYE",
+      "ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI",
+      "PEYNİR TATLISI/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-11T00:00:00": [
       "TAVUKSUYUNA ŞEHRİYE ÇORBA",
-      "MENGEN MUSAKKA"
+      "MENGEN MUSAKKA",
+      "GEMİCİ USL. NOHUT",
+      "ERİŞTE MAKARNA",
+      "PİRİNÇ PİLAVI",
+      "BİSKÜVİLİ PUDİNGLİ PASTA/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-18T00:00:00": [
       "EZOGELİN ÇORBA",
-      "HİNDİ HAŞLAMA"
+      "HİNDİ HAŞLAMA",
+      "VEJ. BEZELYE",
+      "BULGUR PLAVI",
+      "MİLFÖY BÖREK",
+      "SUPANGLE/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-25T00:00:00": [
       "MANTAR ÇORBASI",
-      "TAVUKLU ÇÖKERTME KEBABI"
+      "TAVUKLU ÇÖKERTME KEBABI",
+      "BEZELYE YEMEĞİ",
+      "TEPSİ  BÖREK",
+      "PİRİNÇ PİLAVI",
+      "KAKAOLU PUDİNG/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-05T00:00:00": [
       "ŞAFAK ÇORBA",
-      "TAVUK SOTE"
+      "TAVUK SOTE",
+      "ETSİZ BİBER DOLMA",
+      "MİLFÖY BÖREĞİ",
+      "SOSLU BURGU MAKARNA",
+      "SUPANGLE/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-12T00:00:00": [
       "TARHANA ÇORBASI",
-      "TAVUKLU BUĞU KEBAP"
+      "TAVUKLU BUĞU KEBAP",
+      "TAZE FASULYE YEMEĞİ",
+      "MİLFÖY BÖREK",
+      "BULGUR PİLAVI",
+      "KABAK TATLISI/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
     ],
     "2024-12-19T00:00:00": [
       "MERCİMEK ÇORBA",
-      "HASANPAŞA KÖFTE"
+      "HASANPAŞA KÖFTE",
+      "ETSİZ BİBER DOLMA",
+      "BULGUR PİLAVI",
+      "FIRIN MAKARNA",
+      "KEMALPAŞA/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-26T00:00:00": [
       "TARHANA ÇORBASI",
-      "MANTI"
+      "MANTI",
+      "ETLİ NOHUT",
+      "ŞEHRİYELİ PİLAV",
+      "BULGUR PİLAVI",
+      "KEMALPAŞA/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-06T00:00:00": [
       "MANTAR ÇORBA",
-      "İZMİR KÖFTE"
+      "İZMİR KÖFTE",
+      "VEJ. KEREVİZ",
+      "PİRİNÇ PLAVI",
+      "SOSLU SPAGETTİ",
+      "HAŞHAŞLI MUHALLEBİ/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
     ],
     "2024-12-13T00:00:00": [
       "SEBZE ÇORBASI",
-      "MİTİTE KÖFTE"
+      "MİTİTE KÖFTE",
+      "VEJ.YEŞİL MERCİMEK",
+      "PİRİNÇ PİLAVI",
+      "ERİŞTE",
+      "İRMİK TATLISI/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
     ],
     "2024-12-20T00:00:00": [
       "DOMATES ÇORBA",
-      "TAVUK SOTE"
+      "TAVUK SOTE",
+      "KURU FASULYE YEMEĞİ",
+      "SADE PİRİNÇ PİLAVI",
+      "SPAGETTİ",
+      "KAZANDİBİ/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ],
     "2024-12-27T00:00:00": [
       "YAYLA ÇORBASI",
-      "FIRIN KÖFTE"
+      "FIRIN KÖFTE",
+      "VEJ. TAZE FASULYE",
+      "PİRİNÇ PLAVI",
+      "SOSLU SPAGETTİ",
+      "KEŞKÜL/MEYVE/AYRAN",
+      "SALATA BÜFESİ"
     ]
   },
   "Değirmen": {
@@ -378,71 +488,205 @@
     ]
   },
   "Gourme Mutfak": {
-    "2024-12-24T00:00:00": [
-      "SEBZE ÇORBASI"
-    ],
     "2024-12-02T00:00:00": [
-      "TARHANA ÇORBA "
+      "TARHANA ÇORBA ",
+      "TEKİRDAĞ KÖFTE ",
+      "PESTO SOSLU TAVUK ",
+      "KURU FASULYE ",
+      "PİRİNÇ PİLAVI ",
+      "SOSLU SPAGETTİ ",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-09T00:00:00": [
-      "MERCİMEK ÇORBASI"
+      "MERCİMEK ÇORBASI",
+      "ÇÖKERTME KEBAB ",
+      "KEKİKLİM PİLİÇ ",
+      "TAZE FASULYE ",
+      "ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "SOSLU SPAGHETTİ",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-16T00:00:00": [
-      "EZOGELİN ÇORBA"
+      "EZOGELİN ÇORBA",
+      "ET FAJİTA ",
+      "MANTAR SOSLU PİRZOLA ",
+      "BARBUNYA YEMEĞİ ",
+      "PİRİNÇ PİLAVI",
+      "SADE BULGUR PİLAVI ",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-23T00:00:00": [
-      "MERCİMEK ÇORBASI"
+      "MERCİMEK ÇORBASI",
+      "TAS KEBAB ",
+      "PİLİÇ TANTUNİ ",
+      "MEVSİM TÜRLÜ ",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-30T00:00:00": [
-      "MERCİMEK ÇORBASI"
+      "MERCİMEK ÇORBASI",
+      "TEKİRDAĞ KÖFTE",
+      "PİLİÇ ÇÖKERTME ",
+      "BARBUNYA YEMEĞİ ",
+      "SPAGETTİ ",
+      "PİRİNÇ PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-03T00:00:00": [
-      "MERCİMEK ÇORBASI"
+      "MERCİMEK ÇORBASI",
+      "ARNAVUT CİĞERİ",
+      "PİLİÇ TANDIR ",
+      "KIŞ TÜRLÜSÜ ",
+      "PİRİNÇ PİLAVI",
+      "SOSLU MAKARNA",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-10T00:00:00": [
-      "TARHANA  ÇORBASI"
+      "TARHANA  ÇORBASI",
+      "KADINBUDU KÖFTE",
+      "KÖRİ SOSLU TAVUK ",
+      "NOHUT YEMEĞİ",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-17T00:00:00": [
-      "TARHANA ÇORBASI"
+      "TARHANA ÇORBASI",
+      "TEKİRDAĞ KÖFTE ",
+      "TAVUK KALAMAR",
+      "PATLICAN BASTI",
+      "PİRİNÇ PİLAVI",
+      "FIRIN MAKARNA",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+    ],
+    "2024-12-24T00:00:00": [
+      "SEBZE ÇORBASI",
+      "KADINBUDU KÖFTE ",
+      "PİLİÇ ŞİŞ",
+      "KABAK BİBER DOLMA ",
+      "PİRİNÇ PİLAVI",
+      "ISPANAKLI BÖREK ",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-31T00:00:00": [
-      "SEBZE ÇORBASI"
+      "SEBZE ÇORBASI",
+      "PAPAZ YAHNİ ",
+      "MANTAR SOSLU PİLİÇ ",
+      "SEBZE GRATEN ",
+      "FIRIN MAKARNA ",
+      "PİRİNÇ PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-04T00:00:00": [
-      "DOMATES ÇORBASI"
+      "DOMATES ÇORBASI",
+      "IZGARA KÖFTE PATATES ",
+      "TAVUK SOTE ",
+      "KAHNIBAHAR KIZARTMA ",
+      "PİRİNÇ PİLAVI",
+      "ISPANAKLI BÖREK ",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-11T00:00:00": [
-      "DOMATES ÇORBASI"
+      "DOMATES ÇORBASI",
+      "ET TANTUNİ ",
+      "ŞEFİN TAVASI ",
+      "PATATES KÖFTE ",
+      "ŞEHRİYE PİLAVI",
+      "PİRİNÇ PİLAVI",
+      "TAHİN HELVASI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-18T00:00:00": [
-      "ANADOLU ÇORBA"
+      "ANADOLU ÇORBA",
+      "DANA KAVURMA ",
+      "PİLİÇ FAJİTA",
+      "SEBZE KÖFTE",
+      "PİRİNÇ PİLAVI",
+      "ARPA ŞEHRİYE PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-25T00:00:00": [
-      "EZOGELİN ÇORBA"
+      "EZOGELİN ÇORBA",
+      "ARNAVUT CİĞERİ ",
+      "CAFEDE PARİS SOSLU PİLİÇ ",
+      "KAHNABAHAR KIZARTMA ",
+      "PİRİNÇ PİLAVI",
+      "PENNE ARABİATTA",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-05T00:00:00": [
-      "EZOGELİN ÇORBA"
+      "EZOGELİN ÇORBA",
+      "HÜNKAR BEĞENDİ ",
+      "TAVUK KALAMAR ",
+      "ISPANAKLI MANTAR SOTE",
+      "FIRIN MAKARNA ",
+      "PİRİNÇ PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-12T00:00:00": [
-      "ŞEHRİYELİ TAVUK SUYU ÇORBA"
+      "ŞEHRİYELİ TAVUK SUYU ÇORBA",
+      "EKŞİLİ KÖFTE",
+      "ÇITIR TAVUK PATATES",
+      "SEBZE GRATEN ",
+      "PİRİNÇ PİLAVI",
+      "SOSLU SPAĞETTİ",
+      " ",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-19T00:00:00": [
-      "MANTAR ÇORBASI"
+      "MANTAR ÇORBASI",
+      "IZGARA KÖFTE PATATES",
+      "PESTO SOSLU TAVUK",
+      "MANTAR KAVURMA ",
+      "PİRİNÇ PİLAVI",
+      "FIRIN MAKARNA ",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-26T00:00:00": [
-      "YAYLA ÇORBASI"
+      "YAYLA ÇORBASI",
+      "İZMİR KÖFTE",
+      "ŞEFİN TAVASI ",
+      "KARIŞIK KIZARTMA ",
+      "PİRİNÇ PİLAVI",
+      "FIRIN MAKARNA",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-06T00:00:00": [
-      "TUTMAÇ ÇORBA "
+      "TUTMAÇ ÇORBA ",
+      "İSLİM KÖFTE ",
+      "MEKSİKA SOSLU TAVUK",
+      "KABAK BİBER DOLMA",
+      "SOSLU MAKARNA",
+      "PİRİNÇ PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-13T00:00:00": [
-      "EZOGELİN ÇORBA"
+      "EZOGELİN ÇORBA",
+      "PAPAZ YAHNİ",
+      "BARBEKÜ SOSLU PİLİÇ ",
+      "BEZELYE YEMEĞİ",
+      "ERİŞTE",
+      "PİRİNÇ PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-20T00:00:00": [
-      "MERCİMEK ÇORBA "
+      "MERCİMEK ÇORBA ",
+      "BEEF STROGONOF",
+      "KÖRİ SOSLU TAVUK ",
+      "KURU FASULYE ",
+      "PİRİNÇ PİLAVI ",
+      "PENNE ARABİATTA",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ],
     "2024-12-27T00:00:00": [
-      "BROKOLİ ÇORBA "
+      "BROKOLİ ÇORBA ",
+      "KARNIYARIK ",
+      "PİLİÇ TANDIR ",
+      "PATATES KÖFTE",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI",
+      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
     ]
   }
 }
