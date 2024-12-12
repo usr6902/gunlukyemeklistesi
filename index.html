@@ -59,7 +59,50 @@
           mC += str;
         }
       }
-      $("#divContent").html(mC);
+
+        var customR = `
+            <div class="col">
+              <div class="card mb-4 rounded-3 shadow-sm border-warning">
+                <div class="card-header py-3 bg-warning border-warning">
+                  <h4 class="my-0 fw-normal">Burak Kuru Fasulye</h4>
+                </div>
+                <div class="card-body">
+                 <img class="card-img" src="img/CamScanner 12.12.2024 12.21_1.jpg"/>
+                </div>
+              </div>
+            </div>
+			<div class="col">
+              <div class="card mb-4 rounded-3 shadow-sm border-primary">
+                <div class="card-header py-3 bg-primary border-primary text-white">
+                  <h4 class="my-0 fw-normal">Saray&Burcu Ev Yemekleri</h4>
+                </div>
+                <div class="card-body">
+                 <img class="card-img" src="img/CamScanner 12.12.2024 12.21_3.jpg"/>
+                </div>
+              </div>
+            </div>
+			<div class="col">
+              <div class="card mb-4 rounded-3 shadow-sm border-secondary">
+                <div class="card-header py-3 bg-secondary border-secondary text-white">
+                  <h4 class="my-0 fw-normal">Tadal Karadeniz Pide</h4>
+                </div>
+                <div class="card-body">
+                 <img class="card-img" src="img/CamScanner 12.12.2024 12.31.jpg"/>
+                </div>
+              </div>
+            </div>
+			<div class="col">
+              <div class="card mb-4 rounded-3 shadow-sm border-danger">
+                <div class="card-header py-3 bg-danger border-danger text-white">
+                  <h4 class="my-0 fw-normal">Başaran Ev Yemekleri</h4>
+                </div>
+                <div class="card-body">
+                 <img class="card-img" src="img/CamScanner 12.12.2024 12.21_2.jpg"/>
+                </div>
+              </div>
+            </div>`;
+      
+      $("#divContent").html(mC+customR);
       $("#divDate").text(date.toLocaleDateString() + " " + date.toLocaleDateString("tr-TR", { weekday: 'long' }));
     }
 
