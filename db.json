@@ -1,300 +1,274 @@
 {
   "Bcc Catering": {
-    "2024-12-02T00:00:00": [
-      "MAHLUTA ÇORBA",
+    "2025-01-06T00:00:00": [
+      "TARHANA ÇORBA",
+      "KÖRİLİ TAVUK",
+      "VEJ. PIRASA YEMEĞİ",
+      "TEL ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "PEYNİRLİ BURGU MAKARNA ",
+      "SARIBURMA/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-13T00:00:00": [
+      "ŞAFAK ÇORBA",
       "PİLİÇ HAŞLAMA",
-      "ETLİ NOHUT",
+      "VEJ. BEZELYE ",
+      "BULGUR PİLAVI",
+      "PEYNİRLİ PENNE MAKARNA",
+      "REVANİ /MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-20T00:00:00": [
+      "EZOGELİN ÇORBA",
+      "TAVUK SOTE",
+      "YEŞİL MERCİMEK YEMEĞİ",
+      "MISIRLI PİLAV",
+      "MILFOY BÖREK",
+      "TEL KADAYIF/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-27T00:00:00": [
+      "BROKOLİ ÇORBA",
+      "BEŞAMEL SOSLU TAVUK",
+      " VJT. ISPANAK YEMEĞİ",
+      "ARPA ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "ERİŞTE",
+      "ŞÖBİYET/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-07T00:00:00": [
+      "BUĞDAY ÇORBA",
+      "SAHAN KÖFTE",
+      "VJT. BEZELYE YEMEĞİ ",
+      "BULGUR PİLAVI",
+      "PEYNİRLİ GÜL BÖREK ",
+      "SUPANGLE/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-14T00:00:00": [
+      "TOYGA ÇORBA",
+      "ETLİ PATATES",
+      "GEMİCİ USL.KURU FASULYE",
+      "ŞEHRİYELİ PİRİNÇ PİLAVI  ",
+      "SU BÖREĞİ",
+      "PUDİNGLİ BİSKÜVİLİ PASTA/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-21T00:00:00": [
+      "TAVUK ÇORBA",
+      "HASANPAŞA KÖFTE",
+      "VEJ. PIRASA",
+      "MELEK  PİLAVI",
+      "FIRIN MAKARNA",
+      "KREM KARAMEL/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-28T00:00:00": [
+      "KÖYLÜ ÇORBA",
+      "İZMİR KÖFTE",
+      "VJT. BEZELYE YEMEĞİ ",
+      "SPAGETTİ",
+      "SADE PİRİNÇ PİLAVI",
+      "SUPANGLE/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-08T00:00:00": [
+      "DOMATES ÇORBA",
+      "PATLICAN MUSAKKA",
+      "GEMİCİ USL. KURU FASULYE",
       "PİRİNÇ PİLAVI",
       "SOSLU PENNE MAKARNA",
-      "ŞEKERPARE/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-09T00:00:00": [
-      "MERCİMEK ÇORBA",
-      "MANTARLI TAVUK SOTE",
-      "ISPANAK YEMEĞİ",
-      "PİRİNÇ PİLAVI",
-      "PATATAESLİ GÜL BÖREĞİ",
-      "TEL KADAYIF/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-16T00:00:00": [
-      "ŞEHRİYE ÇORBASI",
-      "FIRIN BAGET",
-      "NOHUT YEMEĞİ",
-      "PİRİNÇ PİLAVI",
-      "MAKARNA",
-      "SARI BURMA/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-23T00:00:00": [
-      "MERCİMEK ÇORBA",
-      "BEŞAMEL SOSLU TAVUK",
-      "PATLICAN MUSAKKA",
-      "PİRİNÇ PİLAVI",
-      "ERİŞTE",
-      "KALBURABASTI/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-30T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "PİLİÇ ROTİ",
-      "KARNABAHAR YEMEĞİ",
-      "PİRİNÇ PİLAVI",
-      "SOSLU BURGU MAKARNA",
-      "CEVİZLİ BAKLAVA/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-03T00:00:00": [
-      "YAYLA ÇORBASI",
-      "EKŞİLİ KÖFTE",
-      "VEJ. KARNABAHAR",
-      "MAKARNA",
-      "PEYNİRLİ GÜL BÖREĞİ",
-      "KAKAOLU PUDİNG/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-10T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "İSLİM KÖFTE",
-      "VJT.KARNABAHAR",
-      "ŞEHRİYELİ PİLAV",
-      "BULGUR PLAVI",
-      "SAKIZLI MUHALLEBİ TATLI/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-17T00:00:00": [
-      "BROKOLİ ÇORBA",
-      "KARNIYARIK YEMEĞİ",
-      "MANTI",
-      "SADE PİRİNÇ PİLAVI",
-      "SEBZE GRATEN",
-      "KEŞKÜL/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-24T00:00:00": [
-      "KÖYLÜ ÇORBA",
-      "HASANPAŞA KÖFTE",
-      "VEJ. TAZE FASULYE",
-      "BULGUR PLAVI",
-      "ERİŞTE MAKARNA",
-      "FIRIN SÜTLAÇ/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-31T00:00:00": [
-      "YAYLA ÇORBASI",
-      "SEBZELİ KÖFTE",
-      "VEJ. KEREVİZ",
-      "BULGUR PLAVI",
-      "SOSLU MAKARNA",
-      "KABAK TATLISI/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-04T00:00:00": [
-      "TAVUK ÇORBASI",
-      "TAS KEBABI",
-      "GEMİCİ USL. KURU FASULYE",
-      "ŞEHRİYELİ PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI",
-      "PEYNİR TATLISI/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-11T00:00:00": [
-      "TAVUKSUYUNA ŞEHRİYE ÇORBA",
-      "MENGEN MUSAKKA",
-      "GEMİCİ USL. NOHUT",
-      "ERİŞTE MAKARNA",
-      "PİRİNÇ PİLAVI",
-      "BİSKÜVİLİ PUDİNGLİ PASTA/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-18T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "HİNDİ HAŞLAMA",
-      "VEJ. BEZELYE",
-      "BULGUR PLAVI",
-      "MİLFÖY BÖREK",
-      "SUPANGLE/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-25T00:00:00": [
-      "MANTAR ÇORBASI",
-      "TAVUKLU ÇÖKERTME KEBABI",
-      "BEZELYE YEMEĞİ",
-      "TEPSİ  BÖREK",
-      "PİRİNÇ PİLAVI",
-      "KAKAOLU PUDİNG/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-05T00:00:00": [
-      "ŞAFAK ÇORBA",
-      "TAVUK SOTE",
-      "ETSİZ BİBER DOLMA",
-      "MİLFÖY BÖREĞİ",
-      "SOSLU BURGU MAKARNA",
-      "SUPANGLE/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-12T00:00:00": [
-      "TARHANA ÇORBASI",
-      "TAVUKLU BUĞU KEBAP",
-      "TAZE FASULYE YEMEĞİ",
-      "MİLFÖY BÖREK",
-      "BULGUR PİLAVI",
-      "KABAK TATLISI/MEYVE/AYRAN",
-      "SALATA BÜFESİ "
-    ],
-    "2024-12-19T00:00:00": [
-      "MERCİMEK ÇORBA",
-      "HASANPAŞA KÖFTE",
-      "ETSİZ BİBER DOLMA",
-      "BULGUR PİLAVI",
-      "FIRIN MAKARNA",
-      "KEMALPAŞA/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-26T00:00:00": [
-      "TARHANA ÇORBASI",
-      "MANTI",
-      "ETLİ NOHUT",
-      "ŞEHRİYELİ PİLAV",
-      "BULGUR PİLAVI",
-      "KEMALPAŞA/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
-    ],
-    "2024-12-06T00:00:00": [
-      "MANTAR ÇORBA",
-      "İZMİR KÖFTE",
-      "VEJ. KEREVİZ",
-      "PİRİNÇ PLAVI",
-      "SOSLU SPAGETTİ",
-      "HAŞHAŞLI MUHALLEBİ/MEYVE/AYRAN",
-      "SALATA BÜFESİ "
-    ],
-    "2024-12-13T00:00:00": [
-      "SEBZE ÇORBASI",
-      "MİTİTE KÖFTE",
-      "VEJ.YEŞİL MERCİMEK",
-      "PİRİNÇ PİLAVI",
-      "ERİŞTE",
-      "İRMİK TATLISI/MEYVE/AYRAN",
-      "SALATA BÜFESİ "
-    ],
-    "2024-12-20T00:00:00": [
-      "DOMATES ÇORBA",
-      "TAVUK SOTE",
-      "KURU FASULYE YEMEĞİ",
-      "SADE PİRİNÇ PİLAVI",
-      "SPAGETTİ",
       "KAZANDİBİ/MEYVE/AYRAN",
-      "SALATA BÜFESİ"
+      "SALATA BÜFESİ "
     ],
-    "2024-12-27T00:00:00": [
-      "YAYLA ÇORBASI",
-      "FIRIN KÖFTE",
-      "VEJ. TAZE FASULYE",
-      "PİRİNÇ PLAVI",
-      "SOSLU SPAGETTİ",
+    "2025-01-15T00:00:00": [
+      "KEREVİZ ÇORBASI",
+      "KARNIYARIK",
+      "MANTI",
+      "ŞEHRİYELİ PİRİNÇ PİLAVI  ",
+      "SEBZE SOTE",
+      "ÇİLEKLİ PUDİNG/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-22T00:00:00": [
+      "TUTMAÇ ÇORBA",
+      "TAVUKLU ÇÖKERTME KEBABI",
+      "VEJ. ISPANAK",
+      "MEYHANE PİLAVI",
+      "PATATESLİ GÜL BÖREK",
+      "FIRN SÜTLAÇ/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-29T00:00:00": [
+      "EZOGELİN ÇORBA",
+      "KREMALI MANTARLI TAVUK",
+      "KEREVİZ YEMEĞİ",
+      "BULGUR PİLAVI",
+      "PEYNİRLİ KOL BÖREĞİ",
+      "KAZANDİBİ/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-02T00:00:00": [
+      "DOMATESLİ ŞEHRİYE ÇORBA",
+      "MANTI",
+      "VJT. TAZE FASULYE",
+      "BULGUR PİLAVI",
+      "SEBZE GRATEN",
+      "SÜTLÜ NURİYE/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-09T00:00:00": [
+      "YAYLA ÇORBA",
+      "İSLİM KÖFTE",
+      "BARBUNYA YEMEĞİ",
+      "ERİŞTE MAKARNA",
+      "PATATESLİ GÜL BÖREĞİ",
+      "İRMİK HELVASI/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-16T00:00:00": [
+      "MERCİMEK ÇORBA",
+      "PÜRELİ MİSKET KÖFTE",
+      "VEJ.  TAZE FASULYE",
+      "PATATESLİ GÜL BÖREĞİ",
+      "BULGUR PİLAVI",
       "KEŞKÜL/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-23T00:00:00": [
+      "BROKOLİ ÇORBA",
+      "EKŞİLİ KÖFTE",
+      "GEMİCİ USL. KURU FASULYE",
+      "TEL ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "SOSLU KALEM MAKARNA",
+      "MUZLU PUDİNG/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-30T00:00:00": [
+      "MANTAR ÇORBA",
+      "BEĞENDİLİ KÖFTE",
+      "VEJ. YEŞİL MERCİMEK",
+      "BULGUR PİLAVI",
+      "PEYNİRLİ BURGU MAKARNA",
+      "KEMALPAŞA/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-03T00:00:00": [
+      "MERCİMEK ÇORBA",
+      "TAVUK SOTE",
+      "VJT.NOHUT YEMEĞİ",
+      "PİRİNÇ PİLAVI",
+      "BURGU MAKARNA",
+      "KEMALPAŞA/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-10T00:00:00": [
+      "DOMATESLİ ŞEHRİYE ÇORBA",
+      "TAVUK ELBASAN TAVA",
+      "VJT. TAZE FASULYE",
+      "SPAGETTİ",
+      "BULGUR PİLAVI",
+      "DAMLA SAKIZLI MUHALLEBİ/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-17T00:00:00": [
+      "SEBZE ÇORBA",
+      "PİLİÇ EMENSE",
+      "VJT. NOHUT",
+      "SOSLU KALEM MAKARNA",
+      "SADE PİRİNÇ PİLAVI",
+      "KEMALPAŞA/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-24T00:00:00": [
+      "ALACA ÇORBA",
+      "PATLICAN KEBAP",
+      "KAPUSKA YEMEĞİ",
+      "SADE ERİŞTE",
+      "BULGUR PİLAVI",
+      "KEŞKÜL/MEYVE/AYRAN",
+      "SALATA BÜFESİ "
+    ],
+    "2025-01-31T00:00:00": [
+      "EZOGELİN ÇORBA",
+      "TAVUKLU  PİLAV",
+      "KARNABAHAR GRATEN",
+      "PATATESLİ GÜL BÖREĞİ",
+      "ZY.BARBUNYA",
+      "KAKAOLU MUHALLEBİ/MEYVE/AYRAN",
       "SALATA BÜFESİ"
     ]
   },
   "Değirmen": {
-    "2024-12-02T00:00:00": [
-      "MERCİMEK",
-      "DOMATES",
-      "SAÇ KAVURMA",
-      "ROSTO KÖFTE",
-      "FIRIN TAVUK",
-      "SOYA SOSLU TAVUK",
-      "PATATES SANDAL",
-      "KURU FASULYE",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-09T00:00:00": [
+    "2025-01-06T00:00:00": [
       "EZOGELİN",
       "DÜĞÜN",
-      "BİFTEK SARMA",
-      "BOLU KEBAP",
-      "ROSTO KÖFTE",
+      "MANTARLI BİFTEK",
+      "KEKİKLİ KEBAP",
+      "IZGARA KÖFTE",
       "KÖRİ SOSLU TAVUK",
-      "SARMA",
+      "LAZANYA",
       "NOHUT",
       "PİRİNÇ PİLAVI",
       "BULGUR PİLAVI ",
       "MAKARNA"
     ],
-    "2024-12-16T00:00:00": [
+    "2025-01-13T00:00:00": [
       "MERCİMEK",
       "TAVUKSUYU",
-      "FIRIN ET",
-      "MACARGULAŞ",
+      "ET SOTE",
+      "MACAR GULAŞ",
       "TAVUK KALAMAR",
       "YOĞURTLU KÖFTE",
-      "LAZANYA",
+      "FIRIN TAVUK",
       "BARBUNYA",
       "PİRİNÇ PİLAVI",
       "BULGUR PİLAVI ",
       "MAKARNA"
     ],
-    "2024-12-23T00:00:00": [
+    "2025-01-20T00:00:00": [
       "EZOGELİN",
-      "MANTAR",
+      "DÜĞÜN",
       "ÇÖKERTME",
       "ALİ NAZİK",
       "İZMİR KÖFTE",
-      "PİLİÇ IZGARA",
       "KÖRİ SOSLU TAVUK",
+      "PİLİÇ IZGARA",
       "KURU FASULYE",
       "PİRİNÇ PİLAVI",
       "BULGUR PİLAVI ",
       "MAKARNA"
     ],
-    "2024-12-30T00:00:00": [
+    "2025-01-27T00:00:00": [
       "MERCİMEK",
-      "DOMATES",
-      "SAÇ KAVURMA",
+      "TAVUKSUYU",
+      "PÜRELİ KAVURMA",
+      "SOĞAN YAHNİ",
       "ROSTO KÖFTE",
       "FIRIN TAVUK",
-      "SOYA SOSLU TAVUK",
-      "PATATES SANDAL",
-      "KURU FASULYE",
+      "LAZANYA",
+      "ISPANAK",
       "PİRİNÇ PİLAVI",
       "BULGUR PİLAVI ",
       "MAKARNA"
     ],
-    "2024-12-03T00:00:00": [
-      "EZOGELİN",
-      "DÜĞÜN",
-      "DANA ROSTO",
-      "KÖFTE DÜRÜM",
-      "TAVUK ŞİNİTSEL",
-      "İZMİR KÖFTE",
-      "KARNIYARIK",
-      "KARNABAHAR GRATEN",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-10T00:00:00": [
+    "2025-01-07T00:00:00": [
       "MERCİMEK",
       "DOMATES",
-      "BAYBURT TAVA",
+      "BEYTİ KEBAP",
       "KÖFTE DÜRÜM",
       "PİLİÇ KAVURMA",
-      "TAVUK SOTE",
       "BEĞENDİLİ KÖFTE",
+      "KARNIYARIK",
       "BEZELYE",
       "PİRİNÇ PİLAVI",
       "BULGUR PİLAVI ",
       "MAKARNA"
     ],
-    "2024-12-17T00:00:00": [
+    "2025-01-14T00:00:00": [
       "EZOGELİN",
       "MANTAR",
-      "DANA HAŞLAMA",
+      "DANA ROSTO",
       "KÖFTE DÜRÜM",
       "MANTARLI TAVUK",
       "HAMBURGER KÖFTE",
@@ -304,12 +278,12 @@
       "BULGUR PİLAVI ",
       "MAKARNA"
     ],
-    "2024-12-24T00:00:00": [
+    "2025-01-21T00:00:00": [
       "MERCİMEK",
       "DOMATES",
-      "SAÇ KAVURMA",
+      "GÜVEÇ KÖFTE",
       "KÖFTE DÜRÜM",
-      "ELBASAN TAVA",
+      "SAHAN KÖFTE",
       "PİLİÇ SARMA",
       "PATLICAN MUSAKKA",
       "BEZELYE",
@@ -317,1597 +291,383 @@
       "BULGUR PİLAVI ",
       "MAKARNA"
     ],
-    "2024-12-31T00:00:00": [
+    "2025-01-28T00:00:00": [
       "EZOGELİN",
-      "DÜĞÜN",
-      "DANA ROSTO",
+      "MANTAR",
+      "SOYA SOSLU BİFTEK",
       "KÖFTE DÜRÜM",
-      "TAVUK ŞİNİTSEL",
-      "İZMİR KÖFTE",
-      "KARNIYARIK",
-      "KARNABAHAR GRATEN",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-04T00:00:00": [
-      "MERCİMEK",
-      "ŞEHRİYE",
-      "DANA HAŞLAMA",
-      "MANTAR SOSLU TAVUK",
-      "HASANPAŞA KÖFTE",
-      "PÜRELİ KAVURMA",
-      "TERBİYELİ KÖFTE",
-      "TAZE FASULYE",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-11T00:00:00": [
-      "EZOGELİN",
-      "MANTAR  ",
+      "KURU KÖFTE",
       "ABANT KEBAP",
-      "SAHAN KÖFTE",
-      "TAVUK FİNGERS",
-      "ZADE KEBAP",
-      "TAVUK EMESEN",
-      "BROKOLİ GRATEN",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-18T00:00:00": [
-      "MERCİMEK",
-      "DOMATES",
-      "PÜRELİ KAVURMA",
-      "BAYBURT TAVA",
-      "BEĞENDİLİ KÖFTE",
-      "SOYA SOSLU TAVUK",
-      "KARIŞIK DOLMA",
-      "KARIŞIK KIZARTMA",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-25T00:00:00": [
-      "EZOGELİN",
-      "YAYLA",
-      "SULTAN KEBAP",
-      "KÖRİ SOSLU TAVUK",
-      "HASANPAŞA  ",
-      "BEYTİ KEBAP",
-      "TERBİYELİ KÖFTE",
-      "ISPANAK",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-05T00:00:00": [
-      "EZOGELİN",
-      "YAYLA",
-      "ELBASAN TAVA",
-      "KADINBUDU KÖFTE",
-      "ET DÜRÜM",
-      "PİLİÇ IZGARA",
-      "SEBZELİ KÖFTE",
-      "ISPANAK",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-12T00:00:00": [
-      "MERCİMEK",
-      "ŞEHRİYE",
-      "ET DÜRÜM",
-      "KADINBUDU KÖFTE",
-      "TAS KEBAP",
-      "PÜRELİ TAVUK",
-      "PATLICAN MUSAKKA",
-      "NOHUT",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-19T00:00:00": [
-      "EZOGELİN",
-      "YAYLA",
-      "MANTARLI BİFTEK",
-      "KADINBUDU KÖFTE",
-      "ET DÜRÜM",
-      "İSLİM KÖFTE",
-      "TAVUK SOTE",
-      "MANTI",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-26T00:00:00": [
-      "MERCİMEK",
-      "TARHANA",
-      "SOYA SOSLU BONFİLE",
-      "ET DÜRÜM",
-      "KADINBUDU KÖFTE",
-      "BEŞTEMAL SOSLU TAVUK",
-      "SEBZELİ KÖFTE",
-      "BROKOLİ GRATEN",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-06T00:00:00": [
-      "MERCİMEK",
-      "TARHANA",
-      "DANA YAHNİ",
-      "ARNAVUT CİĞER",
-      "TAVUK SOTE",
-      "MİSKET KÖFTE",
-      "GÜVEÇTE KÖFTE",
-      "MANTI",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-13T00:00:00": [
-      "EZOGELİN",
-      "BROKOLİ",
-      "KEKİKLİ KEBAP",
-      "ARNAVUT CİĞER",
-      "PÜRELİ KÖFTE",
-      "BOHÇA KEBAP",
-      "BİBER DOLMA",
-      "ISPANAK",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI ",
-      "MAKARNA"
-    ],
-    "2024-12-20T00:00:00": [
-      "MERCİMEK",
-      "ŞEHRİYE",
-      "ETLİ GÜVEÇ",
-      "ARNAVUT CİĞER",
       "PİLİÇ KAVURMA",
-      "MİSKET KÖFTE",
+      "KURU FASULYE",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-01T00:00:00": [],
+    "2025-01-08T00:00:00": [
+      "EZOGELİN",
+      "MANTAR",
+      "SOYA SOSLU BİFTEK",
+      "SAHAN KÖFTE",
+      "ABANT KEBAP",
+      "TAVUK FİNGERS",
       "PATATES OTURTMA",
       "BROKOLİ GRATEN",
       "PİRİNÇ PİLAVI",
       "BULGUR PİLAVI ",
       "MAKARNA"
     ],
-    "2024-12-27T00:00:00": [
+    "2025-01-15T00:00:00": [
+      "MERCİMEK",
+      "DOMATES",
+      "ET SOTE",
+      "BEĞENDİLİ KÖFTE",
+      "SOYA SOSLU TAVUK",
+      "PATATES SANDAL",
+      "KARIŞIK DOLMA",
+      "KARIŞIK KIZARTMA",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-22T00:00:00": [
+      "EZOGELİN",
+      "YAYLA",
+      "BOHÇA KEBAP",
+      "TAVUK ŞİNİTSEL",
+      "HASANPAŞA",
+      "SULTAN KEBAP",
+      "TERBİYELİ KÖFTE",
+      "ISPANAK",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-29T00:00:00": [
+      "MERCİMEK",
+      "DOMATES",
+      "SAÇ KAVURMA",
+      "IZGARA KÖFTE",
+      "TAVUK ŞİNİTSEL",
+      "SOYA SOSLU TAVUK",
+      "BAYBURT TAVA",
+      "KURU FASULYE",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-02T00:00:00": [
+      "EZOGELİN",
+      "YAYLA",
+      "TAS KEBAP",
+      "KADINBUDU KÖFTE",
+      "ET DÜRÜM",
+      "SEBZELİ KÖFTE",
+      "PİLİÇ IZGARA",
+      "ISPANAK",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-09T00:00:00": [
+      "MERCİMEK",
+      "ŞEHRİYE",
+      "TAS KEBAP",
+      "KADINBUDU KÖFTE",
+      "ET DÜRÜM",
+      "HASANPAŞA",
+      "PÜRELİ TAVUK",
+      "TAZE FASULYE",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-16T00:00:00": [
+      "EZOGELİN",
+      "YAYLA",
+      "BİFTEK SARMA",
+      "KADINBUDU KÖFTE",
+      "ET DÜRÜM",
+      "TAVUK SOTE",
+      "İSLİM KÖFTE",
+      "MANTI",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-23T00:00:00": [
+      "MERCİMEK",
+      "TARHANA",
+      "SAC KAVURMA",
+      "ET DÜRÜM",
+      "KADINBUDU KÖFTE",
+      "BEŞTEMAL SOSLU TAVUK",
+      "KARNIYARIK",
+      "BROKOLİ GRATEN",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-30T00:00:00": [
+      "EZOGELİN",
+      "YAYLA",
+      "FIRIN ET",
+      "ET DÜRÜM",
+      "KADINBUDU KÖFTE",
+      "KÖRİ SOSLU TAVUK",
+      "PATLICAN MUSAKKA",
+      "TAZE FASULYE",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-03T00:00:00": [
+      "MERCİMEK ",
+      "TARHANA",
+      "DANA HAŞLAMA",
+      "ARNAVUT CİĞER",
+      "TAVUK SOTE",
+      "MİSKET KÖFTE",
+      "PATLICAN MUSAKKA",
+      "PRASA",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-10T00:00:00": [
       "EZOGELİN",
       "BROKOLİ",
-      "ET SOTE",
+      "ETLİ GÜVEÇ",
       "ARNAVUT CİĞER",
+      "ORMAN KEBAP",
+      "PÜRELİ KÖFTE",
+      "BİBER DOLMA",
+      "ISPANAK",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-17T00:00:00": [
+      "MERCİMEK ",
+      "ŞEHRİYE",
+      "DANA HAŞLAMA",
+      "ARNAVUT CİĞER",
+      "ELBASAN TAVA",
+      "PİLİÇ KAVURMA",
+      "MİSKET KÖFTE",
+      "BROKOLİ GRATEN",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-24T00:00:00": [
+      "EZOGELİN",
+      "BROKOLİ",
+      "ZADE KEBAP",
+      "ARNAVUT CİĞER",
+      "KAĞIT KEBAP",
       "PÜRELİ KÖFTE",
       "TAVUK SOTE",
-      "KARNIYARIK",
       "MANTAR SOTE",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI ",
+      "MAKARNA"
+    ],
+    "2025-01-31T00:00:00": [
+      "MERCİMEK ",
+      "ŞEHRİYE",
+      "KEKİKLİ KEBAP",
+      "ARNAVUT CİĞER",
+      "DANA HAŞLAMA",
+      "TAVUK SOTE",
+      "MİSKET KÖFTE",
+      "PRASA",
       "PİRİNÇ PİLAVI",
       "BULGUR PİLAVI ",
       "MAKARNA"
     ]
   },
   "Gourme Mutfak": {
-    "2024-12-02T00:00:00": [
-      "TARHANA ÇORBA ",
-      "TEKİRDAĞ KÖFTE ",
-      "PESTO SOSLU TAVUK ",
-      "KURU FASULYE ",
-      "PİRİNÇ PİLAVI ",
-      "SOSLU SPAGETTİ ",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-09T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "ÇÖKERTME KEBAB ",
-      "KEKİKLİM PİLİÇ ",
+    "2025-01-06T00:00:00": [
+      "YAYLA ÇORBA ",
+      "DANA KAVURMA",
+      "PESTO SOSLU PİLİÇ",
       "TAZE FASULYE ",
-      "ŞEHRİYELİ PİRİNÇ PİLAVI",
-      "SOSLU SPAGHETTİ",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+      "PİRİNÇ PİLAVI ",
+      "BULGUR PİLAVI "
     ],
-    "2024-12-16T00:00:00": [
+    "2025-01-13T00:00:00": [
+      "MERCİMEK ÇORBA ",
+      "HÜNKAR BEĞENDİ",
+      "PİLİÇ IZGARA",
+      "SEBZE GRATEN",
+      "PİRİNÇ PİLAVI ",
+      "SALÇALI MAKARNA "
+    ],
+    "2025-01-20T00:00:00": [
       "EZOGELİN ÇORBA",
-      "ET FAJİTA ",
-      "MANTAR SOSLU PİRZOLA ",
-      "BARBUNYA YEMEĞİ ",
-      "PİRİNÇ PİLAVI",
-      "SADE BULGUR PİLAVI ",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+      "BEFF STROGONOF ",
+      "ŞEFİN TAVASI",
+      "KURU FASULYE",
+      "ARPA ŞEHRİYE PİLAVI",
+      "PİRİNÇ PİLAVI"
     ],
-    "2024-12-23T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "TAS KEBAB ",
-      "PİLİÇ TANTUNİ ",
-      "MEVSİM TÜRLÜ ",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+    "2025-01-27T00:00:00": [
+      "DOMATES ÇORBASI",
+      "IZGARA KÖFTE PATATES ",
+      "KEKİKLİM ",
+      "SEBZE GRATEN",
+      "PİRİNÇ PİLAVI ",
+      "BULGUR PİLAVI"
     ],
-    "2024-12-30T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "TEKİRDAĞ KÖFTE",
-      "PİLİÇ ÇÖKERTME ",
-      "BARBUNYA YEMEĞİ ",
-      "SPAGETTİ ",
-      "PİRİNÇ PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+    "2025-01-07T00:00:00": [
+      "MERCİMEK ÇORBA",
+      "İZMİR KÖFTE",
+      "MANTAR SOSLU PİLİÇ ",
+      "KAHNIBAHAR KIZARTMA",
+      "PİRİNÇ PİLAVI ",
+      "FIRIN MAKARNA "
     ],
-    "2024-12-03T00:00:00": [
-      "MERCİMEK ÇORBASI",
-      "ARNAVUT CİĞERİ",
-      "PİLİÇ TANDIR ",
-      "KIŞ TÜRLÜSÜ ",
-      "PİRİNÇ PİLAVI",
-      "SOSLU MAKARNA",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+    "2025-01-14T00:00:00": [
+      "TARHANA ÇORBA ",
+      "İSLİM KÖFTE",
+      "TAVUK ŞİNİTZEL",
+      "KURU FASULYE",
+      "PİRİNÇ PİLAVI ",
+      "PEYNİRLİ BÖREK "
     ],
-    "2024-12-10T00:00:00": [
-      "TARHANA  ÇORBASI",
-      "KADINBUDU KÖFTE",
-      "KÖRİ SOSLU TAVUK ",
-      "NOHUT YEMEĞİ",
-      "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-17T00:00:00": [
-      "TARHANA ÇORBASI",
-      "TEKİRDAĞ KÖFTE ",
+    "2025-01-21T00:00:00": [
+      "YAYLA ÇORBA",
+      "KURU KÖFTE",
       "TAVUK KALAMAR",
       "PATLICAN BASTI",
       "PİRİNÇ PİLAVI",
-      "FIRIN MAKARNA",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+      "ERİŞTE"
     ],
-    "2024-12-24T00:00:00": [
-      "SEBZE ÇORBASI",
-      "KADINBUDU KÖFTE ",
-      "PİLİÇ ŞİŞ",
-      "KABAK BİBER DOLMA ",
-      "PİRİNÇ PİLAVI",
-      "ISPANAKLI BÖREK ",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+    "2025-01-28T00:00:00": [
+      "MERCİMEK ÇORBASI",
+      "ÇÖKERTME KEBAB ",
+      "PİLİÇ PİRZOLA PATATES ",
+      "TAZE FASULYE",
+      " PİRİNÇ PİLAVI",
+      "SOSLU MAKARNA"
     ],
-    "2024-12-31T00:00:00": [
-      "SEBZE ÇORBASI",
-      "PAPAZ YAHNİ ",
-      "MANTAR SOSLU PİLİÇ ",
-      "SEBZE GRATEN ",
-      "FIRIN MAKARNA ",
-      "PİRİNÇ PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+    "2025-01-01T00:00:00": [
+      "TATİL "
     ],
-    "2024-12-04T00:00:00": [
-      "DOMATES ÇORBASI",
-      "IZGARA KÖFTE PATATES ",
-      "TAVUK SOTE ",
-      "KAHNIBAHAR KIZARTMA ",
-      "PİRİNÇ PİLAVI",
-      "ISPANAKLI BÖREK ",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-11T00:00:00": [
-      "DOMATES ÇORBASI",
-      "ET TANTUNİ ",
-      "ŞEFİN TAVASI ",
-      "PATATES KÖFTE ",
-      "ŞEHRİYE PİLAVI",
-      "PİRİNÇ PİLAVI",
-      "TAHİN HELVASI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-18T00:00:00": [
-      "ANADOLU ÇORBA",
-      "DANA KAVURMA ",
-      "PİLİÇ FAJİTA",
-      "SEBZE KÖFTE",
-      "PİRİNÇ PİLAVI",
-      "ARPA ŞEHRİYE PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-25T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "ARNAVUT CİĞERİ ",
-      "CAFEDE PARİS SOSLU PİLİÇ ",
-      "KAHNABAHAR KIZARTMA ",
-      "PİRİNÇ PİLAVI",
-      "PENNE ARABİATTA",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-05T00:00:00": [
-      "EZOGELİN ÇORBA",
-      "HÜNKAR BEĞENDİ ",
-      "TAVUK KALAMAR ",
-      "ISPANAKLI MANTAR SOTE",
-      "FIRIN MAKARNA ",
-      "PİRİNÇ PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-12T00:00:00": [
-      "ŞEHRİYELİ TAVUK SUYU ÇORBA",
-      "EKŞİLİ KÖFTE",
-      "ÇITIR TAVUK PATATES",
-      "SEBZE GRATEN ",
-      "PİRİNÇ PİLAVI",
-      "SOSLU SPAĞETTİ",
-      " ",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-19T00:00:00": [
-      "MANTAR ÇORBASI",
-      "IZGARA KÖFTE PATATES",
-      "PESTO SOSLU TAVUK",
-      "MANTAR KAVURMA ",
-      "PİRİNÇ PİLAVI",
-      "FIRIN MAKARNA ",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-26T00:00:00": [
-      "YAYLA ÇORBASI",
-      "İZMİR KÖFTE",
-      "ŞEFİN TAVASI ",
-      "KARIŞIK KIZARTMA ",
-      "PİRİNÇ PİLAVI",
-      "FIRIN MAKARNA",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-06T00:00:00": [
-      "TUTMAÇ ÇORBA ",
-      "İSLİM KÖFTE ",
-      "MEKSİKA SOSLU TAVUK",
-      "KABAK BİBER DOLMA",
-      "SOSLU MAKARNA",
-      "PİRİNÇ PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-13T00:00:00": [
-      "EZOGELİN ÇORBA",
+    "2025-01-08T00:00:00": [
+      "SEBZE ÇORBA",
       "PAPAZ YAHNİ",
-      "BARBEKÜ SOSLU PİLİÇ ",
-      "BEZELYE YEMEĞİ",
-      "ERİŞTE",
-      "PİRİNÇ PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
-    ],
-    "2024-12-20T00:00:00": [
-      "MERCİMEK ÇORBA ",
-      "BEEF STROGONOF",
       "KÖRİ SOSLU TAVUK ",
-      "KURU FASULYE ",
-      "PİRİNÇ PİLAVI ",
-      "PENNE ARABİATTA",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+      "KABAK BİBER DOLMA",
+      "PİRİNÇ PİLAVI",
+      "PATATESLİ BÖREK "
     ],
-    "2024-12-27T00:00:00": [
+    "2025-01-15T00:00:00": [
+      "ŞEHRİYE ÇORBA",
+      "ÇOBAN KAVURMA",
+      "PİLİÇ TANTUNİ",
+      "MANTAR SOTE",
+      " PİRİNÇ PİLAVI",
+      "NAPOLİTEN SOSLU SPAĞETTİ"
+    ],
+    "2025-01-22T00:00:00": [
+      "SEBZE ÇORBASI",
+      "ET TÜRLÜ",
+      "KÖRİ SOSLU TAVUK",
+      "NOHUT YEMEĞİ",
+      "PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI"
+    ],
+    "2025-01-29T00:00:00": [
+      "TARHANA ÇORBA",
+      "KADINBUDU KÖFTE",
+      "PİLİÇ ŞİŞ",
+      "TÜRLÜ",
+      "PİRİNÇ PİLAVI",
+      "ISPANAKLI BÖREK"
+    ],
+    "2025-01-02T00:00:00": [
+      "ANADOLU ÇORBA ",
+      "IZGARA KÖFTE",
+      "MEKSİKA SOSLU PİLİÇ ",
+      "SEBZE GRATEN",
+      "PİRİNÇ PİLAVI",
+      "KUSKUS MAKARNA"
+    ],
+    "2025-01-09T00:00:00": [
       "BROKOLİ ÇORBA ",
-      "KARNIYARIK ",
-      "PİLİÇ TANDIR ",
+      "TEKİRDAĞ KÖFTE",
+      "TERİYAKİ SOSLU TAVUK ",
+      "NOHUT YEMEĞİ ",
+      "PİRİNÇ PİLAVI ",
+      "SOSLU MAKARNA"
+    ],
+    "2025-01-16T00:00:00": [
+      "TARHANA ÇORBASI",
+      "EKŞİLİ KÖFTE",
+      "PİLİÇ KALAMAR",
+      "BAMYA YEMEĞİ",
+      "ARPA ŞEHRİYELİ PİRİNÇ PİLAVI",
+      "BULGUR PİLAVI"
+    ],
+    "2025-01-23T00:00:00": [
+      "SÜLEYMANİYE ÇORBA",
+      "TEKİRDAĞ KÖFTE",
+      "TAVUK TANDIR",
+      "BEZELYE YEMEĞİ",
+      " PİRİNÇ PİLAVI",
+      "FIRIN MAKARNA"
+    ],
+    "2025-01-30T00:00:00": [
+      "BROKOLİ ÇORBA",
+      "ET FAJİTA",
+      "TAVUK SOTE",
+      "KARIŞIK KIZARTMA",
+      "PİRİNÇ PİLAVI",
+      "ERİŞTE"
+    ],
+    "2025-01-03T00:00:00": [
+      "SEBZE ÇORBA",
+      "TAS KEBAB",
+      "PİLİÇ PİRZOLA",
+      "KURU FASULYE",
+      "ERİŞTE",
+      "PİRİNÇ PİLAVI "
+    ],
+    "2025-01-10T00:00:00": [
+      "TAVUK SUYU ÇORBA",
+      "ARNAVUT CİĞERİ",
+      "PİLİÇ ŞİŞ",
+      "BARBUNYA YEMEĞİ",
+      "PİRİNÇ PİLAVI",
+      "KUSKUS MAKARNA"
+    ],
+    "2025-01-17T00:00:00": [
+      "TAVUK SUYU ÇORBA ",
+      "ET  TANTUNİ ",
+      "SOYA SOSLU TAVUK",
+      "KARIŞIK DOLMA",
+      "PİRİNÇ PİLAVI",
+      "SOSLU MAKARNA"
+    ],
+    "2025-01-24T00:00:00": [
+      "TEL ŞEHRİYELİ ÇORBA",
+      "DANA KAVURMA",
+      "TAVUK ÇÖKERTME KEBAB",
       "PATATES KÖFTE",
       "PİRİNÇ PİLAVI",
-      "BULGUR PİLAVI",
-      "Arzu ettiğiniz bir ürünü seçebilirsiniz."
+      "PENNE ARABİATTA",
+      " "
+    ],
+    "2025-01-31T00:00:00": [
+      "EZOGELİN ÇORBA ",
+      "NOHUTLU MİSKET KÖFTE",
+      "PİLİÇ TANTUNİ ",
+      "KURU FASULYE",
+      "PİRİNÇ PİLAVI",
+      "SPAGETTİ"
     ]
-  },
-    "Burak Kuru Fasulye":{
-    "2024-11-01T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KLASİK KAVURMA:295TL",
-        "DİZİ KEBABI:270TL",
-        "FIRINDA ETLİ TÜRLÜ:240TL"
-    ],
-    "2024-11-02T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL",
-        "İZMİR KÖFTE:270TL",
-        "KUZU KABURGA:400TL"
-    ],
-    "2024-11-03T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL"
-    ],
-    "2024-11-04T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KUZU KABURGA:400TL",
-        "DANA İNCİK YAHNİ:295TL"
-    ],
-    "2024-11-05T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "İNEBOLU GÜVECİ:295TL",
-        "İSLİM KEBABI:270TL",
-        "ARNAVUT CİĞERİ:270TL"
-    ],
-    "2024-11-06T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA KABURGA:350TL",
-        "DANA HAŞLAMA:295TL",
-        "FIRINDA TEREYAĞLI KAVURMA:295TL"
-    ],
-    "2024-11-07T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK TANDIR:350TL",
-        "EKŞİLİ KÖFTE:270TL",
-        "ORMAN KEBABI:270TL"
-    ],
-    "2024-11-08T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KLASİK KAVURMA:295TL",
-        "DİZİ KEBABI:270TL",
-        "FIRINDA ETLİ TÜRLÜ:240TL"
-    ],
-    "2024-11-09T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL",
-        "İZMİR KÖFTE:270TL",
-        "KUZU KABURGA:400TL"
-    ],
-    "2024-11-10T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL"
-    ],
-    "2024-11-11T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KUZU KABURGA:400TL",
-        "DANA İNCİK YAHNİ:295TL"
-    ],
-    "2024-11-12T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "İNEBOLU GÜVECİ:295TL",
-        "İSLİM KEBABI:270TL",
-        "ARNAVUT CİĞERİ:270TL"
-    ],
-    "2024-11-13T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA KABURGA:350TL",
-        "DANA HAŞLAMA:295TL",
-        "FIRINDA TEREYAĞLI KAVURMA:295TL"
-    ],
-    "2024-11-14T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK TANDIR:350TL",
-        "EKŞİLİ KÖFTE:270TL",
-        "ORMAN KEBABI:270TL"
-    ],
-    "2024-11-15T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KLASİK KAVURMA:295TL",
-        "DİZİ KEBABI:270TL",
-        "FIRINDA ETLİ TÜRLÜ:240TL"
-    ],
-    "2024-11-16T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL",
-        "İZMİR KÖFTE:270TL",
-        "KUZU KABURGA:400TL"
-    ],
-    "2024-11-17T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL"
-    ],
-    "2024-11-18T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KUZU KABURGA:400TL",
-        "DANA İNCİK YAHNİ:295TL"
-    ],
-    "2024-11-19T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "İNEBOLU GÜVECİ:295TL",
-        "İSLİM KEBABI:270TL",
-        "ARNAVUT CİĞERİ:270TL"
-    ],
-    "2024-11-20T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA KABURGA:350TL",
-        "DANA HAŞLAMA:295TL",
-        "FIRINDA TEREYAĞLI KAVURMA:295TL"
-    ],
-    "2024-11-21T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK TANDIR:350TL",
-        "EKŞİLİ KÖFTE:270TL",
-        "ORMAN KEBABI:270TL"
-    ],
-    "2024-11-22T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KLASİK KAVURMA:295TL",
-        "DİZİ KEBABI:270TL",
-        "FIRINDA ETLİ TÜRLÜ:240TL"
-    ],
-    "2024-11-23T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL",
-        "İZMİR KÖFTE:270TL",
-        "KUZU KABURGA:400TL"
-    ],
-    "2024-11-24T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL"
-    ],
-    "2024-11-25T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KUZU KABURGA:400TL",
-        "DANA İNCİK YAHNİ:295TL"
-    ],
-    "2024-11-26T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "İNEBOLU GÜVECİ:295TL",
-        "İSLİM KEBABI:270TL",
-        "ARNAVUT CİĞERİ:270TL"
-    ],
-    "2024-11-27T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA KABURGA:350TL",
-        "DANA HAŞLAMA:295TL",
-        "FIRINDA TEREYAĞLI KAVURMA:295TL"
-    ],
-    "2024-11-28T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK TANDIR:350TL",
-        "EKŞİLİ KÖFTE:270TL",
-        "ORMAN KEBABI:270TL"
-    ],
-    "2024-11-29T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "KLASİK KAVURMA:295TL",
-        "DİZİ KEBABI:270TL",
-        "FIRINDA ETLİ TÜRLÜ:240TL"
-    ],
-    "2024-11-30T00:00:00": [
-        "<b>HERGÜN</b>",
-        
-        "EZOGELİN/MERCİMEK:75TL",
-        "GERDAN ÇORBASI:125TL",
-        "İLİKLİ KEMİK SUYU:125TL",
-        "İŞKEMBE ÇORBASI:125TL",
-        "KURU FASULYE:160TL",
-        "FIRIN KEBABI:350TL",
-        "PİRİNÇ/BULGUR PİLAVI:80TL",
-        "ÇOBAN SALATA:70TL",
-        "CACIK:70TL",
-        "YOĞURT:70TL",
-        
-        "<b>TATLILAR</b>",
-        
-        "BAKLAVA ÇEŞİTLERİ",
-        "FIRIN SÜTLAÇ:90TL",
-        "FIRIN SÜTLAÇ (BOL FINDIK):110TL",
-        "KEMALPAŞA:85TL",
-        "KABAK TATLISI:90TL",
-        "ANTEP FISTIKLI İRMİK HELVASI:100TL",
-        
-        "<b>İÇECEKLER</b>",
-        
-        "PEPSİ/YEDİGÜN/MEYVE SUYU:45TL",
-        "KAPALI AYRAN:35TL",
-        "AÇIK AYRAN:45TL",
-        "LİMONATA:50TL",
-        "SADE SODA:15TL",
-        "LİMONLU SODA:20TL",
-        "KAYMAK (TATLI ÜZERİNE):35TL",
-        "DONDURMA (TATLI ÜZERİNE):40TL",
-        "SU 300 ml:8TL",
-        
-        "<b>BUGÜNE ÖZEL</b>",
-        
-        "DANA İNCİK YAHNİ:295TL",
-        "İZMİR KÖFTE:270TL",
-        "KUZU KABURGA:400TL"
-    ]
-}
-
+  }
 }
